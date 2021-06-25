@@ -6,7 +6,7 @@ module.exports = {
   title: 'English Summer',
   tagline: 'Dinosaurs are cool',
   url: 'https://chronolai.github.io',
-  baseUrl: '/english-summer/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/abc.png',
