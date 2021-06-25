@@ -1,0 +1,1 @@
+(self.webpackChunktai=self.webpackChunktai||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/english-summer/blog/welcome"},{"title":"Hello","permalink":"/english-summer/blog/hello-world"},{"title":"Hola","permalink":"/english-summer/blog/hola"}]}')}}]);

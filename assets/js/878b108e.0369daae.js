@@ -1,0 +1,1 @@
+(self.webpackChunktai=self.webpackChunktai||[]).push([[343],{2959:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/english-summer/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/english-summer/blog/tags/hola"}')}}]);
