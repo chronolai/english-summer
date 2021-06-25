@@ -10,7 +10,7 @@ sidebar_position: 1
 - July	七月
 - salt	鹽
 - watch	看
-
+<!--  -->
 - fantastic	(adj.) 奇妙的
 - anger	(n.) 生氣
 - lightning	(n.) 閃電
@@ -21,7 +21,7 @@ sidebar_position: 1
 - department	(n.) 部門
 - survive	(v.) 在...之後仍然活著
 - gesture	(n.) 姿勢、表示
-
+<!--  -->
 - run across	偶遇
 - turn down (2)	拒絕
 - put up with	忍耐
