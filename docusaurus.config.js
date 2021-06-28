@@ -22,9 +22,9 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'yan/round2',
+          docId: 'ian/round2',
           position: 'left',
-          label: 'Yan',
+          label: 'Ian',
         },
         {
           type: 'doc',
