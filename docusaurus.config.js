@@ -107,9 +107,9 @@ module.exports = {
     ],
   ],
   plugins: [
-    [require.resolve('docusaurus-lunr-search'), {
-      languages: ['en', 'zh'],
-      excludeRoutes: ['blog/**/*'],
+    [require.resolve('@cmfcmf/docusaurus-search-local'), {
+      indexBlog: false,
+      language: ['en', 'zh'],
     }],
   ],
 };
