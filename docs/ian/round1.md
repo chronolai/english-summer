@@ -1,8 +1,4 @@
----
-sidebar_position: 1
----
-
-# 第一回合
+# ROUND1
 
 ## 2021-06-15
 - apartment	公寓

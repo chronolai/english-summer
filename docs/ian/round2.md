@@ -1,8 +1,4 @@
----
-sidebar_position: 2
----
-
-# 第二回合
+# ROUND2
 
 ## 2021-06-23
 - shake	搖動
@@ -64,7 +60,6 @@ sidebar_position: 2
 - air	空氣
 - soldier	軍人
 
-<!-- 
 ## 2021-06-30
 - size	尺寸
 - writer	作家
@@ -75,4 +70,4 @@ sidebar_position: 2
 - dirty	骯髒的
 - pick	撿拾
 - fourteenth	第十四
-- there	那裡 -->
+- there	那裡
