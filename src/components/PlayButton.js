@@ -1,5 +1,4 @@
 import React from 'react';
-import { FaPlay } from 'react-icons/fa';
 
 import styles from './PlayButton.module.css';
 
@@ -18,7 +17,6 @@ const speak = (msg) => {
 function Component(props) {
   return (
     <span onClick={() => speak(props.value)} className={styles.button}>
-      {/* <FaPlay /> */}
       {props.value}
     </span>
   );
