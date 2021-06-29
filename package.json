@@ -21,6 +21,7 @@
     "@svgr/webpack": "^5.5.0",
     "clsx": "^1.1.1",
     "csv-parser": "^3.0.0",
+    "dayjs": "^1.10.5",
     "file-loader": "^6.2.0",
     "nodejieba": "^2.5.2",
     "prism-react-renderer": "^1.2.1",
