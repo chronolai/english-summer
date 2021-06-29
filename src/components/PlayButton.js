@@ -2,10 +2,14 @@ import React from 'react';
 
 import styles from './PlayButton.module.css';
 
-const synth = window.speechSynthesis;
+let synth;
+if (typeof window !== "undefined") {
+  // browser code
+  synth = window.speechSynthesis;
+}
 
 const speak = (msg) => {
-  const voices = synth.getVoices();
+  const voices = synth?.getVoices()??[];
   const voice = voices.filter(v => v.name === 'Samantha')[0];
 
   const u = new SpeechSynthesisUtterance();
