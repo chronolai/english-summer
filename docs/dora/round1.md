@@ -47,6 +47,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="show up" /> 出現
 
 ## 2021-06-30 (3)
+- <PlayButton value="enough" /> 足夠的
+- <PlayButton value="temple" /> 寺廟
+- <PlayButton value="push" /> 推
+- <PlayButton value="map" /> 地圖
+- <PlayButton value="nod" /> 點頭
+- <PlayButton value="kilometer" /> (n.) 公里
+- <PlayButton value="channel" /> (n.) 管道、頻道
+- <PlayButton value="dolphin" /> (n.) 海豚
+- <PlayButton value="distance" /> (n.) 距離
+- <PlayButton value="corn" /> (n.) 玉米
+- <PlayButton value="blank" /> (n.) 空白
+- <PlayButton value="character" /> (n.) 特性、角色、(中文)字
+- <PlayButton value="distant" /> (adj.) 遠離的
+- <PlayButton value="tube" /> (n.) 管子
+- <PlayButton value="design" /> (v.) 設計、(n.) 圖案、設計
+- <PlayButton value="go on (2)" /> 發生
+- <PlayButton value="go through" /> 用完，耗盡
+- <PlayButton value="give back" /> 歸還
+- <PlayButton value="come over" /> 訪問
+- <PlayButton value="look after" /> 照顧，照料
 
 <!--
 ## 2021-07-01 (4)

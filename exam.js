@@ -157,7 +157,11 @@ const doraDays = [{
 }, {
   page: 'dora/round1',
   date: '2021-06-30',
-  rows: [],
+  rows: [
+    ...[309, 1032, 804, 611, 687].map(id => `basic1200_${id}`),
+    ...[394, 113, 222, 218, 155, 70, 114, 219, 738, 197].map(id => `advance800_${id}`),
+    ...[11, 12, 13, 14, 15].map(id => `phrase_${id}`),
+  ],
 }, {
   page: 'dora/round1',
   date: '2021-07-01',
@@ -259,10 +263,7 @@ loadSources().then((words) => {
         md.push('<!--');
       }
       md.push(`## ${day.date} (${idx + 1})`);
-      // md.push(`| | En | Tw |`);
-      // md.push(`| --- | --- | --- |`);
       day.rows.forEach((row) => {
-        // md.push(`| <PlayButton value="${row.en}" /> | ${row.en} | ${row.tw} |`);
         md.push(`- <PlayButton value="${row.en}" /> ${row.tw}`);
       });
       md.push('');
