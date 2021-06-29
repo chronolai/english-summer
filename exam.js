@@ -4,6 +4,7 @@
 
 const csv = require('csv-parser');
 const fs = require('fs');
+const dayjs = require('dayjs');
 
 function loadCSV(name) {
   const path = `./static/source/${name}.csv`;
@@ -22,6 +23,7 @@ function loadCSV(name) {
 }
 
 function saveMD(path, text) {
+  console.error(path);
   fs.createWriteStream(path).write(text);
 }
 
@@ -98,6 +100,42 @@ const ianDays = [{
   page: 'ian/round2',
   date: '2021-06-30',
   rows: [930, 1187, 370, 984, 129, 513, 259, 753, 383, 1044].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-01',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-02',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-05',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-06',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-07',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-08',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-09',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-12',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  page: 'ian/round2',
+  date: '2021-07-13',
+  rows: [].map(id => `basic1200_${id}`),
 }];
 
 const doraDays = [{
@@ -116,6 +154,78 @@ const doraDays = [{
     ...[654, 87, 552, 329, 395, 130, 608, 107, 560, 85].map(id => `advance800_${id}`),
     ...[6, 7, 8, 9, 10].map(id => `phrase_${id}`),
   ],
+}, {
+  page: 'dora/round1',
+  date: '2021-06-30',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-01',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-02',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-05',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-06',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-07',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-08',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-09',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-12',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-13',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-14',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-15',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-16',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-19',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-20',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-21',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-22',
+  rows: [],
+}, {
+  page: 'dora/round1',
+  date: '2021-07-23',
+  rows: [],
 }];
 
 const days = [
@@ -130,21 +240,35 @@ loadSources().then((words) => {
     rows: day.rows.map(id => words[id]),
   });
   const getFile = (page) => ({
-    title: page.split('/')[1].toUpperCase(),
+    title: page.split('/')[1].replace('round', 'Round '),
     path: `./docs/${page}.md`,
     days: days.filter(day => day.page === page).map(getDay),
   });
   return pages.map(getFile);
 }).then((files) => {
   files.forEach((file) => {
-    console.error(file.path);
-    const md = [`# ${file.title}`, ''];
-    file.days.forEach((day) => {
-      md.push(`## ${day.date}`);
+    const md = [
+      `import PlayButton from '../../src/components/PlayButton'`, '',
+      `# ${file.title}`, ''
+    ];
+    file.days.forEach((day, idx) => {
+      const date = dayjs(day.date);
+      const tomorrow = dayjs().add(1, 'days').startOf('day');
+      const cond = date > tomorrow;
+      if (cond) {
+        md.push('<!--');
+      }
+      md.push(`## ${day.date} (${idx + 1})`);
+      // md.push(`| | En | Tw |`);
+      // md.push(`| --- | --- | --- |`);
       day.rows.forEach((row) => {
-        md.push(`- ${row.en}\t${row.tw}`);
+        // md.push(`| <PlayButton value="${row.en}" /> | ${row.en} | ${row.tw} |`);
+        md.push(`- <PlayButton value="${row.en}" /> ${row.tw}`);
       });
       md.push('');
+      if (cond) {
+        md.push('-->');
+      }
     });
     saveMD(file.path, md.join('\n'));
   });
