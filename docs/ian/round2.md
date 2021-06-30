@@ -74,10 +74,18 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="fourteenth" /> 第十四
 - <PlayButton value="there" /> 那裡
 
-<!--
 ## 2021-07-01 (7)
+- <PlayButton value="song" /> 歌曲
+- <PlayButton value="butter" /> 奶油
+- <PlayButton value="wallet" /> 皮夾
+- <PlayButton value="beside" /> 在…旁邊
+- <PlayButton value="Miss" /> 小姐
+- <PlayButton value="eleventh" /> 第十一
+- <PlayButton value="salad" /> 沙拉
+- <PlayButton value="table" /> 桌子
+- <PlayButton value="eight" /> 八
+- <PlayButton value="eraser" /> 橡皮擦
 
--->
 <!--
 ## 2021-07-02 (8)
 

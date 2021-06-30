@@ -68,10 +68,28 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="come over" /> 訪問
 - <PlayButton value="look after" /> 照顧，照料
 
-<!--
 ## 2021-07-01 (4)
+- <PlayButton value="show" /> 指示
+- <PlayButton value="on" /> 在…上面
+- <PlayButton value="they" /> 他們
+- <PlayButton value="name" /> 名字
+- <PlayButton value="open" /> 打開
+- <PlayButton value="god" /> (n.) 上帝
+- <PlayButton value="alphabet" /> (n.) 字母
+- <PlayButton value="underline" /> (v.) 劃線於...之下、強調、(n.) 底線
+- <PlayButton value="regret" /> (v.) 懊悔
+- <PlayButton value="traditional" /> (adj.) 傳統的
+- <PlayButton value="add" /> (v.) 添加
+- <PlayButton value="record" /> (v.) 記錄、錄音、(n.) 記錄、唱片
+- <PlayButton value="roof" /> (n.) 屋頂
+- <PlayButton value="negative" /> (adj.) 否定的、負面的
+- <PlayButton value="kingdom" /> (n.) 王國
+- <PlayButton value="get rid of" /> 除去
+- <PlayButton value="turn off (2)" /> 排斥
+- <PlayButton value="give away" /> 贈送
+- <PlayButton value="pass out" /> 昏厥，失去知覺
+- <PlayButton value="eat out" /> 在 (餐廳等) 用餐
 
--->
 <!--
 ## 2021-07-02 (5)
 
