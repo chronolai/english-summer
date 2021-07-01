@@ -15,7 +15,10 @@
     "gen": "yarn gen:docs && yarn gen:blog",
     "gen:docs": "node cli/docs",
     "gen:blog": "node cli/blog",
-    "gen:days": "node cli/days"
+    "gen:days": "node cli/days",
+    "rand": "yarn rand:ian && yarn rand:dora",
+    "rand:ian": "node cli/rand ian",
+    "rand:dora": "node cli/rand dora"
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^0.6.2",
