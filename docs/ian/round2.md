@@ -86,10 +86,18 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="eight" /> 八
 - <PlayButton value="eraser" /> 橡皮擦
 
-<!--
 ## 2021-07-02 (8)
+- <PlayButton value="when" /> 何時
+- <PlayButton value="serious" /> 嚴重的
+- <PlayButton value="nobody" /> 無一人
+- <PlayButton value="May" /> 五月
+- <PlayButton value="plant" /> 植物
+- <PlayButton value="mask" /> 面具
+- <PlayButton value="package" /> 包裹
+- <PlayButton value="playground" /> 操場
+- <PlayButton value="raise" /> 舉起
+- <PlayButton value="mountain" /> 山
 
--->
 <!--
 ## 2021-07-05 (9)
 

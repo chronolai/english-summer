@@ -90,10 +90,28 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="pass out" /> 昏厥，失去知覺
 - <PlayButton value="eat out" /> 在 (餐廳等) 用餐
 
-<!--
 ## 2021-07-02 (5)
+- <PlayButton value="key" /> 鑰匙
+- <PlayButton value="grandfather" /> 祖父
+- <PlayButton value="garbage" /> 垃圾
+- <PlayButton value="zebra" /> 斑馬
+- <PlayButton value="lemon" /> 檸檬
+- <PlayButton value="bathe" /> (v.) 洗澡
+- <PlayButton value="extra" /> (adj.) 額外的、(n.) 附加的人物或錢、號外
+- <PlayButton value="cafeteria" /> (n.) 自助餐館
+- <PlayButton value="basic" /> (adj.) 基本的
+- <PlayButton value="period" /> (n.) 一段時間、一堂課
+- <PlayButton value="wheel" /> (n.) 輪子
+- <PlayButton value="model" /> (n.) 模型、模特兒
+- <PlayButton value="net" /> (n.) 網子
+- <PlayButton value="napkin" /> (n.) 餐巾
+- <PlayButton value="nor" /> (conj.) 亦不
+- <PlayButton value="check up on" /> 檢查，調查
+- <PlayButton value="take down" /> 記下
+- <PlayButton value="call off" /> 取消
+- <PlayButton value="put off" /> 延期
+- <PlayButton value="turn up" /> 調高音量
 
--->
 <!--
 ## 2021-07-05 (6)
 
@@ -152,5 +170,9 @@ import PlayButton from '../../src/components/PlayButton'
 -->
 <!--
 ## 2021-07-23 (20)
+
+-->
+<!--
+## 2021-07-26 (21)
 
 -->
