@@ -3,6 +3,7 @@ const dayjs = require('dayjs');
 const {
   saveMD,
   loadDataset,
+  getNextDate,
 } = require('./utils');
 
 const days = require('./days');
@@ -25,10 +26,11 @@ loadDataset().then((words) => {
       `import PlayButton from '../../src/components/PlayButton'`, '',
       `# ${file.title}`, ''
     ];
+    const dates = file.days.map(day => day.date);
     file.days.forEach((day, idx) => {
+      const next = dayjs(getNextDate(dates, dayjs().format('YYYY-MM-DD')));
       const date = dayjs(day.date);
-      const tomorrow = dayjs().add(1, 'days').startOf('day');
-      const cond = date > tomorrow;
+      const cond = date >= next;
       if (cond) {
         md.push('<!--');
       }

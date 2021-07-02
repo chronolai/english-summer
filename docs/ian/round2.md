@@ -100,6 +100,16 @@ import PlayButton from '../../src/components/PlayButton'
 
 <!--
 ## 2021-07-05 (9)
+- <PlayButton value="land" /> 土地
+- <PlayButton value="whether" /> 是否
+- <PlayButton value="fisherman" /> 漁夫
+- <PlayButton value="father" /> 父親
+- <PlayButton value="cell phone" /> 手機
+- <PlayButton value="farm" /> 農田
+- <PlayButton value="child" /> 小孩
+- <PlayButton value="forget" /> 忘記
+- <PlayButton value="fill" /> 裝滿
+- <PlayButton value="homework" /> 家庭作業
 
 -->
 <!--

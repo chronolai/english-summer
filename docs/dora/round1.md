@@ -114,6 +114,26 @@ import PlayButton from '../../src/components/PlayButton'
 
 <!--
 ## 2021-07-05 (6)
+- <PlayButton value="motorcycle" /> 機車
+- <PlayButton value="different" /> 不同的
+- <PlayButton value="each" /> 每一
+- <PlayButton value="driver" /> 駕駛者
+- <PlayButton value="every" /> 每一個
+- <PlayButton value="trap" /> (v.) 設陷阱、(n.) 陷阱、圈套
+- <PlayButton value="crab" /> (n.) 螃蟹
+- <PlayButton value="bark" /> (v.) 狗叫、(n.) 吠聲
+- <PlayButton value="invent" /> (v.) 發明
+- <PlayButton value="potato" /> (n.) 馬鈴薯
+- <PlayButton value="gain" /> (v.) 得到、增進
+- <PlayButton value="pale" /> (adj.) 蒼白的、黯淡的
+- <PlayButton value="earrings" /> (n.) 耳環
+- <PlayButton value="protect" /> (v.) 保護
+- <PlayButton value="pattern" /> (n.) 圖案、模式
+- <PlayButton value="look in on" /> 順道拜訪 (某人)
+- <PlayButton value="turn on" /> 打開 (電燈等)
+- <PlayButton value="turn down" /> 降低音量
+- <PlayButton value="get over" /> (自生病或失望中) 復原，痊癒
+- <PlayButton value="look up" /> 尋找 (某物)，在 (字典中) 查明
 
 -->
 <!--

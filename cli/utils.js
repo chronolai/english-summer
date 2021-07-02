@@ -39,8 +39,14 @@ function loadDataset() {
   });
 }
 
+function getNextDate(days, current) {
+  const index = days.indexOf(current);
+  return days[index + 1];
+}
+
 module.exports = {
   loadCSV,
   saveMD,
   loadDataset,
+  getNextDate,
 };

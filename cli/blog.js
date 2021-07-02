@@ -3,6 +3,7 @@ const dayjs = require('dayjs');
 const {
   saveMD,
   loadDataset,
+  getNextDate,
 } = require('./utils');
 
 const days = require('./days');
@@ -20,9 +21,9 @@ loadDataset().then((words) => {
     days: days.filter(day => day.date === date).map(getDay),
   });
   const f = (day) => {
+    const next = dayjs(getNextDate(dates, dayjs().format('YYYY-MM-DD')));
     const date = dayjs(day.title);
-    const tomorrow = dayjs().add(1, 'days').startOf('day');
-    const cond = date > tomorrow;
+    const cond = date > next;
     return !cond;
   };
   return dates.map(getFile).filter(f);
