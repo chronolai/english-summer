@@ -112,7 +112,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="put off" /> 延期
 - <PlayButton value="turn up" /> 調高音量
 
-<!--
 ## 2021-07-05 (6)
 - <PlayButton value="motorcycle" /> 機車
 - <PlayButton value="different" /> 不同的
@@ -135,9 +134,28 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="get over" /> (自生病或失望中) 復原，痊癒
 - <PlayButton value="look up" /> 尋找 (某物)，在 (字典中) 查明
 
--->
 <!--
 ## 2021-07-06 (7)
+- <PlayButton value="frog" /> 蛙
+- <PlayButton value="bottom" /> 底部
+- <PlayButton value="ice" /> 冰
+- <PlayButton value="glass" /> 玻璃杯
+- <PlayButton value="grow" /> 種植
+- <PlayButton value="woods" /> (n.) 樹林
+- <PlayButton value="mirror" /> (n.) 鏡子
+- <PlayButton value="match" /> (v.) 相配
+- <PlayButton value="limit" /> (v.) 限定、(n.) 限度
+- <PlayButton value="nest" /> (n.) 巢
+- <PlayButton value="mix" /> (v.) 混合
+- <PlayButton value="measure" /> (v.) 計量、(n.) 尺寸
+- <PlayButton value="midnight" /> (n.) 午夜
+- <PlayButton value="overseas" /> (adj.) 國外的、(adv.) 在海外
+- <PlayButton value="minus" /> (prep.) 減（去）、(n.) 負號
+- <PlayButton value="wait on" /> 伺候，服務
+- <PlayButton value="look down on" /> 輕視，瞧不起
+- <PlayButton value="take care of" /> 負責，照顧
+- <PlayButton value="break down" /> 損壞，故障
+- <PlayButton value="get up" /> 起床，起來
 
 -->
 <!--

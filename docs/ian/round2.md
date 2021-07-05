@@ -98,7 +98,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="raise" /> 舉起
 - <PlayButton value="mountain" /> 山
 
-<!--
 ## 2021-07-05 (9)
 - <PlayButton value="land" /> 土地
 - <PlayButton value="whether" /> 是否
@@ -111,9 +110,18 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="fill" /> 裝滿
 - <PlayButton value="homework" /> 家庭作業
 
--->
 <!--
 ## 2021-07-06 (10)
+- <PlayButton value="both" /> 兩者都
+- <PlayButton value="something" /> 某事
+- <PlayButton value="people" /> 人們
+- <PlayButton value="poor" /> 貧困的
+- <PlayButton value="mud" /> 泥
+- <PlayButton value="rich" /> 有錢的
+- <PlayButton value="Monday" /> 星期一
+- <PlayButton value="pretty" /> 漂亮的
+- <PlayButton value="repeat" /> 重複
+- <PlayButton value="name" /> 名字
 
 -->
 <!--
