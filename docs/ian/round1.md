@@ -2,7 +2,6 @@ import PlayButton from '../../src/components/PlayButton'
 
 # Round 1
 
-<!--
 ## 2021-06-15 (1)
 - <PlayButton value="apartment" /> 公寓
 - <PlayButton value="bridge" /> 橋
@@ -15,8 +14,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="truck" /> 卡車
 - <PlayButton value="yummy" /> 好吃的
 
--->
-<!--
 ## 2021-06-16 (2)
 - <PlayButton value="toy" /> 玩具
 - <PlayButton value="computer" /> 電腦
@@ -29,8 +26,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="candy" /> 糖果
 - <PlayButton value="Friday" /> 星期五
 
--->
-<!--
 ## 2021-06-17 (3)
 - <PlayButton value="pants" /> 長褲
 - <PlayButton value="sore" /> 疼痛的
@@ -43,8 +38,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="night" /> 晚上
 - <PlayButton value="leave" /> 離開
 
--->
-<!--
 ## 2021-06-18 (4)
 - <PlayButton value="health" /> 健康
 - <PlayButton value="bored" /> 感到厭煩的
@@ -57,8 +50,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="cousin" /> (表)兄弟姊妹
 - <PlayButton value="loud" /> 大聲的
 
--->
-<!--
 ## 2021-06-19 (5)
 - <PlayButton value="wet" /> 濕的
 - <PlayButton value="plate" /> 盤子
@@ -71,8 +62,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="hey" /> 嘿
 - <PlayButton value="sir" /> 先生
 
--->
-<!--
 ## 2021-06-20 (6)
 - <PlayButton value="mouse" /> 老鼠
 - <PlayButton value="restroom" /> 洗手間
@@ -85,8 +74,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="princess" /> 公主
 - <PlayButton value="planet" /> 行星
 
--->
-<!--
 ## 2021-06-21 (7)
 - <PlayButton value="wise" /> 明智的
 - <PlayButton value="make" /> 製作
@@ -99,8 +86,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="will" /> 將
 - <PlayButton value="bottom" /> 底部
 
--->
-<!--
 ## 2021-06-22 (8)
 - <PlayButton value="birthday" /> 生日
 - <PlayButton value="everything" /> 每件事
@@ -112,5 +97,3 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="fat" /> 胖的
 - <PlayButton value="stupid" /> 笨的
 - <PlayButton value="ghost" /> 鬼
-
--->

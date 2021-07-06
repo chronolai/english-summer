@@ -134,7 +134,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="get over" /> (自生病或失望中) 復原，痊癒
 - <PlayButton value="look up" /> 尋找 (某物)，在 (字典中) 查明
 
-<!--
 ## 2021-07-06 (7)
 - <PlayButton value="frog" /> 蛙
 - <PlayButton value="bottom" /> 底部
@@ -157,60 +156,90 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="break down" /> 損壞，故障
 - <PlayButton value="get up" /> 起床，起來
 
--->
-<!--
 ## 2021-07-07 (8)
+- <PlayButton value="worker" /> 工人
+- <PlayButton value="old" /> 老的
+- <PlayButton value="happen" /> 發生
+- <PlayButton value="practice" /> 練習
+- <PlayButton value="fact" /> 事實
+- <PlayButton value="terrific" /> (adj.) 非常好的、可怕的
+- <PlayButton value="regular" /> (adj.) 通常的、定期的
+- <PlayButton value="overweight" /> (adj.) 超重的、過重的
+- <PlayButton value="tear" /> (v.) 撕、(n.) 眼淚
+- <PlayButton value="mass" /> (n.) 團、塊
+- <PlayButton value="area" /> (n.) 地區、面積
+- <PlayButton value="rather" /> (adv.) 寧可、頗為
+- <PlayButton value="middle" /> (adj.) 中間的、(n.) 中央
+- <PlayButton value="method" /> (n.) 方法
+- <PlayButton value="tofu" /> (n.) 豆腐
+- <PlayButton value="find out" /> 發現
+- <PlayButton value="go over" /> 複習
+- <PlayButton value="look over" /> 檢查，查看
+- <PlayButton value="talk over" /> 討論
+- <PlayButton value="fill out" /> 填好
 
--->
-<!--
 ## 2021-07-08 (9)
+- <PlayButton value="robot" /> 機器人
+- <PlayButton value="until" /> 直到
+- <PlayButton value="office" /> 辦公室
+- <PlayButton value="noise" /> 噪音
+- <PlayButton value="hunt" /> 打獵
+- <PlayButton value="fancy" /> (adj.) 花俏的、特級的
+- <PlayButton value="satisfy" /> (v.) 使滿意
+- <PlayButton value="cotton" /> (n.) 棉花
+- <PlayButton value="shoot" /> (v.) 注射、射擊、拍攝
+- <PlayButton value="football" /> (n.) 美式足球
+- <PlayButton value="greet" /> (v.) 問候、致敬
+- <PlayButton value="weekday" /> (n.) 工作日
+- <PlayButton value="title" /> (n.) 標題、頭銜
+- <PlayButton value="golf" /> (n.) 高爾夫球
+- <PlayButton value="tradition" /> (n.) 傳統
+- <PlayButton value="come in" /> 進入
+- <PlayButton value="wake up" /> 起床，喚醒
+- <PlayButton value="get away with" /> 逃避處罰
+- <PlayButton value="come back" /> 回到 (某地)
+- <PlayButton value="run out of" /> 耗盡
 
--->
-<!--
 ## 2021-07-09 (10)
+- <PlayButton value="dozen" /> 一打
+- <PlayButton value="America" /> 美國
+- <PlayButton value="tiger" /> 老虎
+- <PlayButton value="glad" /> 高興的
+- <PlayButton value="twenty" /> 二十
+- <PlayButton value="pillow" /> (n.) 枕頭
+- <PlayButton value="frighten" /> (v.) 害怕、吃驚
+- <PlayButton value="purse" /> (n.) 錢包
+- <PlayButton value="consider" /> (v.) 考慮
+- <PlayButton value="produce" /> (v.) 製造、出產、(n.) 農產品
+- <PlayButton value="bother" /> (v.) 煩擾
+- <PlayButton value="treasure" /> (v.) 珍愛、(n.) 財寶
+- <PlayButton value="sample" /> (n.) 樣品
+- <PlayButton value="forgive" /> (v.) 原諒
+- <PlayButton value="contract" /> (n.) 契約；合同
+- <PlayButton value="blow up" /> 爆炸
+- <PlayButton value="get through with" /> 完成
+- <PlayButton value="put on" /> 穿、戴 (衣物、帽子等)
+- <PlayButton value="take after" /> 像，相似
+- <PlayButton value="point out" /> 引起注意
 
--->
-<!--
 ## 2021-07-12 (11)
 
--->
-<!--
 ## 2021-07-13 (12)
 
--->
-<!--
 ## 2021-07-14 (13)
 
--->
-<!--
 ## 2021-07-15 (14)
 
--->
-<!--
 ## 2021-07-16 (15)
 
--->
-<!--
 ## 2021-07-19 (16)
 
--->
-<!--
 ## 2021-07-20 (17)
 
--->
-<!--
 ## 2021-07-21 (18)
 
--->
-<!--
 ## 2021-07-22 (19)
 
--->
-<!--
 ## 2021-07-23 (20)
 
--->
-<!--
 ## 2021-07-26 (21)
-
--->

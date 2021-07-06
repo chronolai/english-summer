@@ -110,7 +110,6 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="fill" /> 裝滿
 - <PlayButton value="homework" /> 家庭作業
 
-<!--
 ## 2021-07-06 (10)
 - <PlayButton value="both" /> 兩者都
 - <PlayButton value="something" /> 某事
@@ -123,24 +122,62 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="repeat" /> 重複
 - <PlayButton value="name" /> 名字
 
--->
-<!--
 ## 2021-07-07 (11)
+- <PlayButton value="order" /> 點餐
+- <PlayButton value="garbage" /> 垃圾
+- <PlayButton value="dinner" /> 晚餐
+- <PlayButton value="dance" /> 跳舞
+- <PlayButton value="December" /> 十二月
+- <PlayButton value="department store" /> 百貨公司
+- <PlayButton value="either" /> 也不
+- <PlayButton value="die" /> 死亡
+- <PlayButton value="bed" /> 床
+- <PlayButton value="bear" /> 熊
 
--->
-<!--
 ## 2021-07-08 (12)
+- <PlayButton value="cow" /> 母牛
+- <PlayButton value="wear" /> 穿
+- <PlayButton value="robot" /> 機器人
+- <PlayButton value="rat" /> 老鼠
+- <PlayButton value="plan" /> 計畫
+- <PlayButton value="please" /> 請
+- <PlayButton value="number" /> 號碼
+- <PlayButton value="short" /> 短的
+- <PlayButton value="pool" /> 游泳池
+- <PlayButton value="quite" /> 相當
 
--->
-<!--
 ## 2021-07-09 (13)
+- <PlayButton value="student" /> 學生
+- <PlayButton value="sidewalk" /> 人行道
+- <PlayButton value="bag" /> 袋子
+- <PlayButton value="check" /> 檢查
+- <PlayButton value="lettuce" /> 萵苣
+- <PlayButton value="half" /> 一半
+- <PlayButton value="seesaw" /> 蹺蹺板
+- <PlayButton value="spend" /> 花費
+- <PlayButton value="feel" /> 覺得
+- <PlayButton value="grass" /> 草
 
--->
-<!--
 ## 2021-07-12 (14)
+- <PlayButton value="ahead" /> 在前方
+- <PlayButton value="grape" /> 葡萄
+- <PlayButton value="save" /> 節省
+- <PlayButton value="moment" /> 片刻
+- <PlayButton value="early" /> 早的
+- <PlayButton value="if" /> 如果
+- <PlayButton value="zero" /> 零
+- <PlayButton value="pray" /> 祈禱
+- <PlayButton value="rest" /> 休息
+- <PlayButton value="large" /> 大的
 
--->
-<!--
 ## 2021-07-13 (15)
-
--->
+- <PlayButton value="June" /> 六月
+- <PlayButton value="paste" /> 黏貼
+- <PlayButton value="mother" /> 母親
+- <PlayButton value="get" /> 得到
+- <PlayButton value="proud" /> 驕傲的
+- <PlayButton value="gate" /> 大門
+- <PlayButton value="brush" /> 刷
+- <PlayButton value="fun" /> 樂趣
+- <PlayButton value="hot" /> 熱的
+- <PlayButton value="marker" /> 簽字筆

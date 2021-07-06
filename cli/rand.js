@@ -12,7 +12,8 @@ const date = process.argv[3] || dayjs().format('YYYY-MM-DD');
 const getKeys = name => days.filter(day => day.name === name).reduce((acc, val) => [...acc, ...val.rows], []).sort();
 
 loadDataset().then((words) => {
-    const shuffleWords = (arr, top = 10) => arr.sort((a, b) => 0.5 - Math.random()).slice(0, top).map(key => ({ key, ...words[key] }));
+    const randFunc = (a, b) => 0.5 - Math.random();
+    const shuffleWords = (arr, top = 10) => arr.sort(randFunc).sort(randFunc).sort(randFunc).slice(0, top).map(key => ({ key, ...words[key] }));
 
     const allKeys = Object.keys(words);
     const examKeys = allKeys.filter(key => words[key].status !== '0');

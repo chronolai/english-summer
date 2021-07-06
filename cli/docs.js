@@ -24,24 +24,15 @@ loadDataset().then((words) => {
   files.forEach((file) => {
     const md = [
       `import PlayButton from '../../src/components/PlayButton'`, '',
-      `# ${file.title}`, ''
+      `# ${file.title}`, '',
     ];
     const dates = file.days.map(day => day.date);
     file.days.forEach((day, idx) => {
-      const next = dayjs(getNextDate(dates, dayjs().format('YYYY-MM-DD')));
-      const date = dayjs(day.date);
-      const cond = date >= next;
-      if (cond) {
-        md.push('<!--');
-      }
       md.push(`## ${day.date} (${idx + 1})`);
       day.rows.forEach((row) => {
         md.push(`- <PlayButton value="${row.en}" /> ${row.tw}`);
       });
       md.push('');
-      if (cond) {
-        md.push('-->');
-      }
     });
     saveMD(file.path, md.join('\n'));
   });
