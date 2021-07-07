@@ -156,7 +156,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="break down" /> 損壞，故障
 - <PlayButton value="get up" /> 起床，起來
 
-## 2021-07-07 (8)
+## 2021-07-08 (8)
 - <PlayButton value="worker" /> 工人
 - <PlayButton value="old" /> 老的
 - <PlayButton value="happen" /> 發生
@@ -178,7 +178,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="talk over" /> 討論
 - <PlayButton value="fill out" /> 填好
 
-## 2021-07-08 (9)
+## 2021-07-09 (9)
 - <PlayButton value="robot" /> 機器人
 - <PlayButton value="until" /> 直到
 - <PlayButton value="office" /> 辦公室
@@ -200,7 +200,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="come back" /> 回到 (某地)
 - <PlayButton value="run out of" /> 耗盡
 
-## 2021-07-09 (10)
+## 2021-07-12 (10)
 - <PlayButton value="dozen" /> 一打
 - <PlayButton value="America" /> 美國
 - <PlayButton value="tiger" /> 老虎
@@ -222,24 +222,28 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="take after" /> 像，相似
 - <PlayButton value="point out" /> 引起注意
 
-## 2021-07-12 (11)
+## 2021-07-13 (11)
 
-## 2021-07-13 (12)
+## 2021-07-14 (12)
 
-## 2021-07-14 (13)
+## 2021-07-15 (13)
 
-## 2021-07-15 (14)
+## 2021-07-16 (14)
 
-## 2021-07-16 (15)
+## 2021-07-19 (15)
 
-## 2021-07-19 (16)
+## 2021-07-20 (16)
 
-## 2021-07-20 (17)
+## 2021-07-21 (17)
 
-## 2021-07-21 (18)
+## 2021-07-22 (18)
 
-## 2021-07-22 (19)
+## 2021-07-23 (19)
 
-## 2021-07-23 (20)
+## 2021-07-26 (20)
 
-## 2021-07-26 (21)
+## 2021-07-27 (21)
+
+## 2021-07-28 (22)
+
+## 2021-07-29 (23)
