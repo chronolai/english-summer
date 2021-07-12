@@ -223,6 +223,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="point out" /> 引起注意
 
 ## 2021-07-13 (11)
+- <PlayButton value="twice" /> 兩次
+- <PlayButton value="neck" /> 脖子
+- <PlayButton value="rule" /> 規則
+- <PlayButton value="nice" /> 好的
+- <PlayButton value="smell" /> 聞起來
+- <PlayButton value="wood" /> (n.) 木材
+- <PlayButton value="heater" /> (n.) 暖氣機
+- <PlayButton value="brick" /> (n.) 磚塊
+- <PlayButton value="grandson" /> (n.) 孫子、外孫
+- <PlayButton value="bowling" /> (n.) 保齡球戲
+- <PlayButton value="table tennis" /> (n.) 乒乓球
+- <PlayButton value="rare" /> (adj.) 罕見的
+- <PlayButton value="slippers" /> (n.) 拖鞋
+- <PlayButton value="hall" /> (n.) 大廳、講堂
+- <PlayButton value="electric" /> (adj.) 電的
+- <PlayButton value="catch on" /> 變得流行
+- <PlayButton value="pick out" /> 挑選
+- <PlayButton value="call on (2)" /> 拜訪
+- <PlayButton value="get along with" /> 相處融洽
+- <PlayButton value="hold up (2)" /> 搶劫
 
 ## 2021-07-14 (12)
 
