@@ -245,6 +245,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="hold up (2)" /> 搶劫
 
 ## 2021-07-14 (12)
+- <PlayButton value="letter" /> 信
+- <PlayButton value="laugh" /> 笑
+- <PlayButton value="answer" /> 回答
+- <PlayButton value="lucky" /> 幸運的
+- <PlayButton value="kitchen" /> 廚房
+- <PlayButton value="hunger" /> (n.) 饑餓
+- <PlayButton value="lack" /> (v.) 缺乏、(n.) 缺乏
+- <PlayButton value="equal" /> (adj.) 相等的、平等的
+- <PlayButton value="printer" /> (n.) 印表機、印刷業者
+- <PlayButton value="highway" /> (n.) 公路、幹道
+- <PlayButton value="fee" /> (n.) 費用
+- <PlayButton value="stationery" /> (n.) 文具
+- <PlayButton value="command" /> (n.) 命令
+- <PlayButton value="scientist" /> (n.) 科學家
+- <PlayButton value="completion" /> (n.) 完成、實現
+- <PlayButton value="pick up" /> 舉起，抬起
+- <PlayButton value="leave out" /> 省略，遺漏
+- <PlayButton value="make out" /> 聽到，瞭解
+- <PlayButton value="think back on" /> 憶起，記起
+- <PlayButton value="look into" /> 調查
 
 ## 2021-07-15 (13)
 

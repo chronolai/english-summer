@@ -183,5 +183,25 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="marker" /> 簽字筆
 
 ## 2021-07-14 (16)
+- <PlayButton value="ever" /> 曾經
+- <PlayButton value="sell" /> 賣
+- <PlayButton value="enjoy" /> 喜愛
+- <PlayButton value="housewife" /> 家庭主婦
+- <PlayButton value="month" /> 月份
+- <PlayButton value="rock" /> 岩石
+- <PlayButton value="how" /> 如何
+- <PlayButton value="stay" /> 停留
+- <PlayButton value="kilo" /> 公斤
+- <PlayButton value="stranger" /> 陌生人
 
 ## 2021-07-15 (17)
+- <PlayButton value="fork" /> 叉子
+- <PlayButton value="junior high school" /> 國中
+- <PlayButton value="fever" /> 發燒
+- <PlayButton value="yet" /> 尚未
+- <PlayButton value="kind" /> 種類
+- <PlayButton value="drawer" /> 抽屜
+- <PlayButton value="climb" /> 爬
+- <PlayButton value="eat" /> 吃
+- <PlayButton value="eighteen" /> 十八
+- <PlayButton value="lantern" /> 燈籠
