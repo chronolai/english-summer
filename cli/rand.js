@@ -54,12 +54,12 @@ loadDataset().then((words) => {
         const doraShuffleBasic = shuffleWords(doraRemainBasicKeys, 5);
         const basicList = doraShuffleBasic.map(word => `- ${word.en} ${word.tw}`).join('\n');
         const basicKeys = doraShuffleBasic.map(word => word.id).join(', ');
-        const doraShuffleAdvance = shuffleWords(doraRemainAdvanceKeys);
+        const doraShuffleAdvance = shuffleWords(doraRemainAdvanceKeys, 15);
         const advanceList = doraShuffleAdvance.map(word => `- ${word.en} ${word.tw}`).join('\n');
         const advanceKeys = doraShuffleAdvance.map(word => word.id).join(', ');
-        const doraShufflePhrase = shuffleWords(doraRemainPhraseKeys, 5);
-        const phraseList = doraShufflePhrase.map(word => `- ${word.en} ${word.tw}`).join('\n');
-        const phraseKeys = doraShufflePhrase.map(word => word.id).join(', ');
+        // const doraShufflePhrase = shuffleWords(doraRemainPhraseKeys, 5);
+        // const phraseList = doraShufflePhrase.map(word => `- ${word.en} ${word.tw}`).join('\n');
+        // const phraseKeys = doraShufflePhrase.map(word => word.id).join(', ');
 
         // console.error(doraDays.length);
         // console.error('doraRemainBasicKeys:', doraRemainBasicKeys.length);
@@ -67,11 +67,11 @@ loadDataset().then((words) => {
         // console.error('doraRemainPhraseKeys:', doraRemainPhraseKeys.length);
         console.error(basicList);
         console.error(advanceList);
-        console.error(phraseList);
+        // console.error(phraseList);
         console.error();
         console.error(`[${basicKeys}]`);
         console.error(`[${advanceKeys}]`);
-        console.error(`[${phraseKeys}]`);
+        // console.error(`[${phraseKeys}]`);
     }
     console.error();
 });
