@@ -205,3 +205,15 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="eat" /> 吃
 - <PlayButton value="eighteen" /> 十八
 - <PlayButton value="lantern" /> 燈籠
+
+## 2021-07-16 (18)
+- <PlayButton value="lonely" /> 寂寞的
+- <PlayButton value="today" /> 今天
+- <PlayButton value="useful" /> 有用的
+- <PlayButton value="once" /> 一次
+- <PlayButton value="cheat" /> 欺騙
+- <PlayButton value="push" /> 推
+- <PlayButton value="pipe" /> 管
+- <PlayButton value="dodge ball" /> 躲避球
+- <PlayButton value="knee" /> 膝蓋
+- <PlayButton value="dictionary" /> 字典
