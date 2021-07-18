@@ -40,8 +40,8 @@ function loadDataset() {
 }
 
 function getNextDate(days, current) {
-  const index = days.indexOf(current);
-  return days[index + 1];
+  const dates = days.filter(day => day >  current);
+  return dates[0];
 }
 
 module.exports = {

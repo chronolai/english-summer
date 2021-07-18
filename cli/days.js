@@ -95,6 +95,68 @@ const ianRound2 = [{
   rows: [593, 1072, 1121, 713, 175, 804, 761, 263, 547, 252].map(id => `basic1200_${id}`),
 }].map(mapFunc('ian', 2));
 
+const ianRound3 = [{
+  date: '2021-07-19',
+  rows: [499, 299, 877, 333, 787, 632, 115, 1063, 691, 219].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-20',
+  rows: [12, 1021, 164, 268, 449, 1089, 388, 1052, 487, 733].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-21',
+  rows: [903, 247, 284, 768, 194, 562, 1057, 561, 224, 296].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-22',
+  rows: [174, 997, 1163, 749, 852, 827, 440, 1173, 434, 177].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-23',
+  rows: [769, 833, 1020, 524, 195, 531, 800, 826, 1087, 286].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-26',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-27',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-28',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-29',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-07-30',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-02',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-03',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-04',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-15',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-06',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-09',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-10',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-11',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-12',
+  rows: [].map(id => `basic1200_${id}`),
+}, {
+  date: '2021-08-13',
+  rows: [].map(id => `basic1200_${id}`),
+}].map(mapFunc('ian', 3));
+
 const doraRound1 = [{
   date: '2021-06-28',
   rows: [
@@ -265,6 +327,7 @@ const doraRound1 = [{
 const ianDays = [
   ...ianRound1,
   ...ianRound2,
+  ...ianRound3,
 ];
 
 const doraDays = [
