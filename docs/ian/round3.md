@@ -63,6 +63,16 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="ear" /> 耳朵
 
 ## 2021-07-26 (6)
+- <PlayButton value="heavy" /> 重的
+- <PlayButton value="woman" /> 女人
+- <PlayButton value="elephant" /> 大象
+- <PlayButton value="cup" /> 茶杯
+- <PlayButton value="friend" /> 朋友
+- <PlayButton value="fifteenth" /> 第十五
+- <PlayButton value="fix" /> 修理
+- <PlayButton value="foreigner" /> 外國人
+- <PlayButton value="bird" /> 鳥
+- <PlayButton value="bread" /> 麵包
 
 ## 2021-07-27 (7)
 
