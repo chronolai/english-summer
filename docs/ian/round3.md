@@ -75,14 +75,64 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="bread" /> 麵包
 
 ## 2021-07-27 (7)
+- <PlayButton value="perhaps" /> 或許
+- <PlayButton value="cross" /> 越過
+- <PlayButton value="cheese" /> 乳酪
+- <PlayButton value="bench" /> 長椅
+- <PlayButton value="thin" /> 瘦的
+- <PlayButton value="finally" /> 最後
+- <PlayButton value="famous" /> 有名的
+- <PlayButton value="line" /> 隊伍
+- <PlayButton value="bake" /> 烘烤
+- <PlayButton value="drive" /> 駕駛
 
 ## 2021-07-28 (8)
+- <PlayButton value="live" /> 住
+- <PlayButton value="grade" /> 成績
+- <PlayButton value="knife" /> 刀子
+- <PlayButton value="king" /> 國王
+- <PlayButton value="interesting" /> 有趣的
+- <PlayButton value="town" /> 城鎮
+- <PlayButton value="square" /> 正方形的
+- <PlayButton value="for" /> 為了
+- <PlayButton value="dark" /> 黑暗的
+- <PlayButton value="let" /> 讓
 
 ## 2021-07-29 (9)
+- <PlayButton value="notebook" /> 筆記本
+- <PlayButton value="learn" /> 學習
+- <PlayButton value="other" /> 其他的
+- <PlayButton value="library" /> 圖書館
+- <PlayButton value="nineteenth" /> 第十九
+- <PlayButton value="glass" /> 玻璃杯
+- <PlayButton value="chair" /> 椅子
+- <PlayButton value="hop" /> (單腳)跳
+- <PlayButton value="reporter" /> 記者
+- <PlayButton value="tenth" /> 第十的
 
 ## 2021-07-30 (10)
+- <PlayButton value="exciting" /> 令人興奮的
+- <PlayButton value="bank" /> 銀行
+- <PlayButton value="buy" /> 買
+- <PlayButton value="waitress" /> 女服務生
+- <PlayButton value="shall" /> 將
+- <PlayButton value="weather" /> 天氣
+- <PlayButton value="insect" /> 昆蟲
+- <PlayButton value="eighty" /> 八十
+- <PlayButton value="snack" /> 點心
+- <PlayButton value="pocket" /> 口袋
 
 ## 2021-08-02 (11)
+- <PlayButton value="secretary" /> 秘書
+- <PlayButton value="twentieth" /> 第二十
+- <PlayButton value="guitar" /> 吉他
+- <PlayButton value="uncle" /> 伯(叔)
+- <PlayButton value="chopsticks" /> 筷子
+- <PlayButton value="put" /> 放
+- <PlayButton value="popular" /> 受歡迎的
+- <PlayButton value="slide" /> 溜滑梯
+- <PlayButton value="nineteen" /> 十九
+- <PlayButton value="French fries" /> 薯條
 
 ## 2021-08-03 (12)
 
@@ -101,3 +151,5 @@ import PlayButton from '../../src/components/PlayButton'
 ## 2021-08-12 (19)
 
 ## 2021-08-13 (20)
+
+## 2021-08-16 (21)
