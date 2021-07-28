@@ -507,3 +507,5 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="inspire" /> (v.) 鼓舞
 - <PlayButton value="damage" /> (v.) 損害、(n.) 損害
 - <PlayButton value="dishonest" /> (adj.) 不誠實的
+
+## 2021-07-30 (24)
