@@ -509,3 +509,23 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="dishonest" /> (adj.) 不誠實的
 
 ## 2021-07-30 (24)
+- <PlayButton value="where" /> 何處
+- <PlayButton value="clap" /> 拍手
+- <PlayButton value="garden" /> 花園
+- <PlayButton value="free" /> 空閒的
+- <PlayButton value="table" /> 桌子
+- <PlayButton value="cloud" /> (n.) 雲
+- <PlayButton value="active" /> (adj.) 活躍的
+- <PlayButton value="homesick" /> (adj.) 想家的
+- <PlayButton value="clever" /> (adj.) 聰明伶俐的
+- <PlayButton value="duty" /> (n.) 義務、關稅
+- <PlayButton value="narrow" /> (adj.) 窄的
+- <PlayButton value="silent" /> (adj.) 寂靜的
+- <PlayButton value="entrance" /> (n.) 入口
+- <PlayButton value="dresser" /> (n.) 衣櫃
+- <PlayButton value="personal" /> (adj.) 個人的
+- <PlayButton value="independent" /> (adj.) 獨立的
+- <PlayButton value="link" /> (v.) 聯繫、(n.) 環節
+- <PlayButton value="coast" /> (n.) 海岸
+- <PlayButton value="oneself" /> (pron.)自己
+- <PlayButton value="lamb" /> (n.) 小羊
