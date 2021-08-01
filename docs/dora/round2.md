@@ -1,20 +1,8 @@
-import PlayButton from '../src/components/PlayButton'
+import PlayButton from '../../src/components/PlayButton'
 
-# 2021-08-02
+# Round 2
 
-## Ian
-- <PlayButton value="exciting" /> 令人興奮的
-- <PlayButton value="bank" /> 銀行
-- <PlayButton value="buy" /> 買
-- <PlayButton value="waitress" /> 女服務生
-- <PlayButton value="shall" /> 將
-- <PlayButton value="weather" /> 天氣
-- <PlayButton value="insect" /> 昆蟲
-- <PlayButton value="eighty" /> 八十
-- <PlayButton value="snack" /> 點心
-- <PlayButton value="pocket" /> 口袋
-
-## Dora
+## 2021-08-02 (1)
 - <PlayButton value="experience" /> 經驗
 - <PlayButton value="e-mail" /> 電子郵件
 - <PlayButton value="daughter" /> 女兒
@@ -35,3 +23,41 @@ import PlayButton from '../src/components/PlayButton'
 - <PlayButton value="decorate" /> (v.) 佈置
 - <PlayButton value="secret" /> (n.) 秘密
 - <PlayButton value="private" /> (adj.) 私人的
+
+## 2021-08-03 (2)
+
+## 2021-08-04 (3)
+
+## 2021-08-05 (4)
+
+## 2021-08-06 (5)
+
+## 2021-08-09 (6)
+
+## 2021-08-10 (7)
+
+## 2021-08-11 (8)
+
+## 2021-08-12 (9)
+
+## 2021-08-13 (10)
+
+## 2021-08-16 (11)
+
+## 2021-08-17 (12)
+
+## 2021-08-18 (13)
+
+## 2021-08-19 (14)
+
+## 2021-08-20 (15)
+
+## 2021-08-23 (16)
+
+## 2021-08-24 (17)
+
+## 2021-08-25 (18)
+
+## 2021-08-26 (19)
+
+## 2021-08-27 (20)

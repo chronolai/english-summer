@@ -345,6 +345,90 @@ const doraRound1 = [{
     ],
 }].map(mapFunc('dora', 1));
 
+const doraRound2 = [{
+    date: '2021-08-02',
+    rows: [
+        ...[328, 304, 242, 36, 855].map(id => `basic1200_${id}`),
+        ...[10, 436, 148, 743, 576, 701, 593, 348, 211, 220, 779, 27, 187, 611, 545].map(id => `advance800_${id}`),
+    ],
+}, {
+    date: '2021-08-03',
+    rows: [
+    ],
+}, {
+    date: '2021-08-04',
+    rows: [
+    ],
+}, {
+    date: '2021-08-05',
+    rows: [
+    ],
+}, {
+    date: '2021-08-06',
+    rows: [
+    ],
+}, {
+    date: '2021-08-09',
+    rows: [
+    ],
+}, {
+    date: '2021-08-10',
+    rows: [
+    ],
+}, {
+    date: '2021-08-11',
+    rows: [
+    ],
+}, {
+    date: '2021-08-12',
+    rows: [
+    ],
+}, {
+    date: '2021-08-13',
+    rows: [
+    ],
+}, {
+    date: '2021-08-16',
+    rows: [
+    ],
+}, {
+    date: '2021-08-17',
+    rows: [
+    ],
+}, {
+    date: '2021-08-18',
+    rows: [
+    ],
+}, {
+    date: '2021-08-19',
+    rows: [
+    ],
+}, {
+    date: '2021-08-20',
+    rows: [
+    ],
+}, {
+    date: '2021-08-23',
+    rows: [
+    ],
+}, {
+    date: '2021-08-24',
+    rows: [
+    ],
+}, {
+    date: '2021-08-25',
+    rows: [
+    ],
+}, {
+    date: '2021-08-26',
+    rows: [
+    ],
+}, {
+    date: '2021-08-27',
+    rows: [
+    ],
+}].map(mapFunc('dora', 2));
+
 const ianDays = [
     ...ianRound1,
     ...ianRound2,
@@ -353,6 +437,7 @@ const ianDays = [
 
 const doraDays = [
     ...doraRound1,
+    ...doraRound2,
 ];
 
 const days = [
