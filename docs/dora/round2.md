@@ -25,6 +25,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="private" /> (adj.) 私人的
 
 ## 2021-08-03 (2)
+- <PlayButton value="way" /> 道路
+- <PlayButton value="over" /> 結束
+- <PlayButton value="than" /> 比…
+- <PlayButton value="classroom" /> 教室
+- <PlayButton value="should" /> 應該
+- <PlayButton value="minor" /> (adj.) 較小的、較次要的、(n.) 未成年者、副科
+- <PlayButton value="main" /> (adj.) 最主要的
+- <PlayButton value="appreciate" /> (v.) 感謝、賞識
+- <PlayButton value="noisy" /> (adj.) 喧鬧的
+- <PlayButton value="shrimp" /> (n.) 蝦子
+- <PlayButton value="diary" /> (n.) 日記
+- <PlayButton value="iron" /> (v.) 熨燙、(n.) 鐵、熨斗
+- <PlayButton value="explain" /> (v.) 解釋
+- <PlayButton value="cowboy" /> (n.) 牛仔
+- <PlayButton value="forward" /> (adj.) 前面的、(v.) 轉遞、(adv.) 向前地
+- <PlayButton value="skinny" /> (adj.) 很瘦的
+- <PlayButton value="activity" /> (n.) 活動
+- <PlayButton value="scarf" /> (n.) 圍巾
+- <PlayButton value="worm" /> (n.) 蠕蟲
+- <PlayButton value="credit card" /> (n.) 信用卡
 
 ## 2021-08-04 (3)
 
