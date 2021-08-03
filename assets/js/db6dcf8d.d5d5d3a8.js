@@ -1,1 +1,0 @@
-(self.webpackChunktai=self.webpackChunktai||[]).push([[5583],{7489:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/english-summer/blog/page/2","page":2,"postsPerPage":10,"totalPages":4,"totalCount":38,"previousPage":"/english-summer/blog","nextPage":"/english-summer/blog/page/3","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
