@@ -47,6 +47,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="credit card" /> (n.) 信用卡
 
 ## 2021-08-04 (3)
+- <PlayButton value="dangerous" /> 危險的
+- <PlayButton value="salad" /> 沙拉
+- <PlayButton value="pound" /> 磅
+- <PlayButton value="bath" /> 洗澡
+- <PlayButton value="bottle" /> 瓶子
+- <PlayButton value="armchair" /> (n.) 扶手椅子
+- <PlayButton value="raincoat" /> (n.) 雨衣
+- <PlayButton value="solve" /> (v.) 解決
+- <PlayButton value="select" /> (v.) 挑選
+- <PlayButton value="upper" /> (adj.) 較高的
+- <PlayButton value="recycle" /> (v.) 回收
+- <PlayButton value="textbook" /> (n.) 教科書
+- <PlayButton value="blouse" /> (n.) 女裝短上衣
+- <PlayButton value="term" /> (n.) 術語、學期
+- <PlayButton value="pressure" /> (n.) 壓力
+- <PlayButton value="avoid" /> (v.) 避免
+- <PlayButton value="sailor" /> (n.) 水手
+- <PlayButton value="childish" /> (adj.) 幼稚的
+- <PlayButton value="crayon" /> (n.) 蠟筆
+- <PlayButton value="spirit" /> (n.) 精神
 
 ## 2021-08-05 (4)
 

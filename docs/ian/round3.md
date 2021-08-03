@@ -110,7 +110,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="reporter" /> 記者
 - <PlayButton value="tenth" /> 第十的
 
-## 2021-08-02 (10)
+## 2021-08-03 (10)
 - <PlayButton value="exciting" /> 令人興奮的
 - <PlayButton value="bank" /> 銀行
 - <PlayButton value="buy" /> 買
@@ -122,7 +122,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="snack" /> 點心
 - <PlayButton value="pocket" /> 口袋
 
-## 2021-08-03 (11)
+## 2021-08-04 (11)
 - <PlayButton value="secretary" /> 秘書
 - <PlayButton value="twentieth" /> 第二十
 - <PlayButton value="guitar" /> 吉他
@@ -134,28 +134,28 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="nineteen" /> 十九
 - <PlayButton value="French fries" /> 薯條
 
-## 2021-08-04 (12)
+## 2021-08-15 (12)
 
-## 2021-08-15 (13)
+## 2021-08-06 (13)
 
-## 2021-08-06 (14)
+## 2021-08-09 (14)
 
-## 2021-08-09 (15)
+## 2021-08-10 (15)
 
-## 2021-08-10 (16)
+## 2021-08-11 (16)
 
-## 2021-08-11 (17)
+## 2021-08-12 (17)
 
-## 2021-08-12 (18)
+## 2021-08-13 (18)
 
-## 2021-08-13 (19)
+## 2021-08-16 (19)
 
-## 2021-08-16 (20)
+## 2021-08-17 (20)
 
-## 2021-08-17 (21)
+## 2021-08-18 (21)
 
-## 2021-08-18 (22)
+## 2021-08-19 (22)
 
-## 2021-08-19 (23)
+## 2021-08-20 (23)
 
-## 2021-08-20 (24)
+## 2021-08-23 (24)
