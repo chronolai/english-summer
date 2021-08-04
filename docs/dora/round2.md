@@ -69,6 +69,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="spirit" /> (n.) 精神
 
 ## 2021-08-05 (4)
+- <PlayButton value="age" /> 年齡
+- <PlayButton value="type" /> 打字
+- <PlayButton value="smile" /> 微笑
+- <PlayButton value="comb" /> 梳子
+- <PlayButton value="tape" /> 錄音帶
+- <PlayButton value="Valentine" /> (n.) 情人節
+- <PlayButton value="wild" /> (adj.) 野生的、無法無天的
+- <PlayButton value="couple" /> (n.) 一對
+- <PlayButton value="passenger" /> (n.) 乘客
+- <PlayButton value="thief" /> (n.) 小偷
+- <PlayButton value="housework" /> (n.) 家務
+- <PlayButton value="fit" /> (v.) 合身、適合
+- <PlayButton value="desire" /> (n.) 渴望
+- <PlayButton value="kitten" /> (n.) 小貓
+- <PlayButton value="thumb" /> (n.) 拇指
+- <PlayButton value="instant" /> (adj.) 即時的、(n.) 瞬間
+- <PlayButton value="result" /> (n.) 結果
+- <PlayButton value="doughnut" /> (n.) 甜甜圈
+- <PlayButton value="courage" /> (n.) 勇氣
+- <PlayButton value="interrupt" /> (v.) 打斷(談話和工作等)
 
 ## 2021-08-06 (5)
 

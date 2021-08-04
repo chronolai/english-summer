@@ -134,7 +134,17 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="nineteen" /> 十九
 - <PlayButton value="French fries" /> 薯條
 
-## 2021-08-15 (12)
+## 2021-08-05 (12)
+- <PlayButton value="simple" /> 簡單的
+- <PlayButton value="telephone" /> 電話
+- <PlayButton value="thousand" /> 千
+- <PlayButton value="whale" /> 鯨魚
+- <PlayButton value="hang" /> 懸掛
+- <PlayButton value="bottle" /> 瓶子
+- <PlayButton value="orange" /> 柳橙
+- <PlayButton value="hunt" /> 打獵
+- <PlayButton value="workbook" /> 作業本
+- <PlayButton value="do" /> 做
 
 ## 2021-08-06 (13)
 
