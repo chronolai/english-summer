@@ -145,6 +145,8 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="hunt" /> 打獵
 - <PlayButton value="workbook" /> 作業本
 - <PlayButton value="do" /> 做
+- <PlayButton value="chopsticks" /> 筷子
+- <PlayButton value="French fries" /> 薯條
 
 ## 2021-08-06 (13)
 
@@ -169,3 +171,7 @@ import PlayButton from '../../src/components/PlayButton'
 ## 2021-08-20 (23)
 
 ## 2021-08-23 (24)
+
+## 2021-08-24 (25)
+
+## 2021-08-25 (26)
