@@ -91,6 +91,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="interrupt" /> (v.) 打斷(談話和工作等)
 
 ## 2021-08-06 (5)
+- <PlayButton value="lettuce" /> 萵苣
+- <PlayButton value="catch" /> 趕上
+- <PlayButton value="walk" /> 走路
+- <PlayButton value="pizza" /> 披薩
+- <PlayButton value="people" /> 人們
+- <PlayButton value="fog" /> (n.) 霧
+- <PlayButton value="downtown" /> (adj.) 城市商業區的、(adv.)往城市商業區、(n.) 城市商業區
+- <PlayButton value="army" /> (n.) 軍隊、大群
+- <PlayButton value="liter" /> (n.) 公升
+- <PlayButton value="alike" /> (adj.) 相似的
+- <PlayButton value="progress" /> (n.) 進步
+- <PlayButton value="alive" /> (adj.) 活著的、活躍的
+- <PlayButton value="chart" /> (n.) 圖表
+- <PlayButton value="discussion" /> (n.) 討論
+- <PlayButton value="decision" /> (n.) 決定
+- <PlayButton value="complain" /> (v.) 抱怨
+- <PlayButton value="till" /> (prep.) 直到
+- <PlayButton value="realize" /> (v.) 認知、實現
+- <PlayButton value="trust" /> (v.) 信任
+- <PlayButton value="underpass" /> (n.) 地下通道
 
 ## 2021-08-09 (6)
 

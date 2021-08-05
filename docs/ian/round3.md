@@ -149,6 +149,16 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="French fries" /> 薯條
 
 ## 2021-08-06 (13)
+- <PlayButton value="lawyer" /> 律師
+- <PlayButton value="piece" /> 片
+- <PlayButton value="center" /> 中心
+- <PlayButton value="language" /> 語言
+- <PlayButton value="weekend" /> 週末
+- <PlayButton value="but" /> 但是
+- <PlayButton value="exercise" /> 運動
+- <PlayButton value="glue" /> 膠水
+- <PlayButton value="except" /> 除了…之外
+- <PlayButton value="life" /> 生活
 
 ## 2021-08-09 (14)
 
