@@ -113,6 +113,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="underpass" /> (n.) 地下通道
 
 ## 2021-08-09 (6)
+- <PlayButton value="story" /> 故事
+- <PlayButton value="fat" /> 胖的
+- <PlayButton value="grade" /> 成績
+- <PlayButton value="wash" /> 清洗
+- <PlayButton value="elementary school" /> 小學
+- <PlayButton value="flight" /> (n.) 飛行
+- <PlayButton value="primary" /> (adj.) 主要的、初級的
+- <PlayButton value="value" /> (n.) 價值
+- <PlayButton value="energy" /> (n.) 精力、能量
+- <PlayButton value="monster" /> (n.) 怪物
+- <PlayButton value="manner" /> (n.) 舉止、態度
+- <PlayButton value="men's room" /> (n.) 男廁
+- <PlayButton value="waterfall" /> (n.) 瀑布
+- <PlayButton value="path" /> (n.) 小徑、路線
+- <PlayButton value="local" /> (adj.) 本地的、(n.) 當地居民
+- <PlayButton value="needle" /> (n.) 針
+- <PlayButton value="blame" /> (v.) 歸咎於
+- <PlayButton value="mosquito" /> (n.) 蚊子
+- <PlayButton value="emotion" /> (n.) 情緒
+- <PlayButton value="culture" /> (n.) 文化
 
 ## 2021-08-10 (7)
 
