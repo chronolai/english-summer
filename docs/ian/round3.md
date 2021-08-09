@@ -161,6 +161,16 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="life" /> 生活
 
 ## 2021-08-10 (14)
+- <PlayButton value="excuse" /> 原諒
+- <PlayButton value="sugar" /> 糖
+- <PlayButton value="surprised" /> 感驚訝的
+- <PlayButton value="towel" /> 毛巾
+- <PlayButton value="goodbye" /> 再見
+- <PlayButton value="aunt" /> 伯(叔)母
+- <PlayButton value="ruler" /> 尺
+- <PlayButton value="cap" /> (無邊便)帽
+- <PlayButton value="sail" /> 航行
+- <PlayButton value="cold" /> 寒冷的
 
 ## 2021-08-11 (15)
 

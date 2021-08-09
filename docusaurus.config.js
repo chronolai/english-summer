@@ -19,20 +19,19 @@ module.exports = {
         alt: 'Logo',
         src: 'img/abc.png',
       },
-      items: [
-        {
-          type: 'doc',
-          docId: 'ian/round2',
-          position: 'left',
-          label: 'Ian',
-        },
-        {
-          type: 'doc',
-          docId: 'dora/round1',
-          position: 'left',
-          label: 'Dora',
-        },
-        {to: '/blog', label: 'Blog', position: 'left'},
+      items: [{
+        type: 'doc',
+        docId: 'ian/round3',
+        position: 'left',
+        label: 'Ian',
+      },
+      {
+        type: 'doc',
+        docId: 'dora/round2',
+        position: 'left',
+        label: 'Dora',
+      },
+      { to: '/blog', label: 'Blog', position: 'left' },
         // {
         //   href: 'https://github.com/facebook/docusaurus',
         //   label: 'GitHub',

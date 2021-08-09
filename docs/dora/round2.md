@@ -135,6 +135,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="culture" /> (n.) 文化
 
 ## 2021-08-10 (7)
+- <PlayButton value="rich" /> 有錢的
+- <PlayButton value="public" /> 公立的
+- <PlayButton value="mask" /> 面具
+- <PlayButton value="uncle" /> 伯(叔)
+- <PlayButton value="thirty" /> 三十
+- <PlayButton value="degree" /> (n.) 程度
+- <PlayButton value="fool" /> (v.) 愚弄、(n.) 呆子
+- <PlayButton value="university" /> (n.) 大學
+- <PlayButton value="sudden" /> (adj.) 突然的
+- <PlayButton value="bundle" /> (n.) 捆、大量
+- <PlayButton value="diligent" /> (adj.) 勤勉的
+- <PlayButton value="beard" /> (n.) 鬍子
+- <PlayButton value="confuse" /> (v.) 使迷惑
+- <PlayButton value="angel" /> (n.) 天使
+- <PlayButton value="lick" /> (v.) 舔
+- <PlayButton value="deliver" /> (v.) 遞送、發表、講、給……接生
+- <PlayButton value="embarrass" /> (v.) 使困窘
+- <PlayButton value="desert" /> (v.) 遺棄、離棄、逃跑、(n.) 沙漠
+- <PlayButton value="physics" /> (n.) 物理
+- <PlayButton value="drugstore" /> (n.) (常兼售雜貨的)藥房
 
 ## 2021-08-11 (8)
 
