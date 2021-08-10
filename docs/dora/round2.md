@@ -157,12 +157,92 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="drugstore" /> (n.) (常兼售雜貨的)藥房
 
 ## 2021-08-11 (8)
+- <PlayButton value="aunt" /> 伯(叔)母
+- <PlayButton value="left" /> 左邊
+- <PlayButton value="zoo" /> 動物園
+- <PlayButton value="magic" /> 神奇的
+- <PlayButton value="ear" /> 耳朵
+- <PlayButton value="success" /> (n.) 成功
+- <PlayButton value="include" /> (v.) 包含
+- <PlayButton value="guide" /> (v.) 引導、(n.) 嚮導
+- <PlayButton value="foolish" /> (adj.) 愚蠢的
+- <PlayButton value="respect" /> (v.) 尊敬、(n.) 尊敬
+- <PlayButton value="curtain" /> (n.) 窗簾、(舞臺上的)幕
+- <PlayButton value="gun" /> (n.) 槍
+- <PlayButton value="hairdresser" /> (n.) 美髮師
+- <PlayButton value="latter" /> (adj.) 後者
+- <PlayButton value="compare" /> (v.) 比較
+- <PlayButton value="president" /> (n.) 校長、總統
+- <PlayButton value="print" /> (v.) 印刷、用印刷體寫
+- <PlayButton value="seem" /> (v.) 似乎是
+- <PlayButton value="disappear" /> (v.) 消失
+- <PlayButton value="contact lens" /> (n.) 隱形眼鏡
 
 ## 2021-08-12 (9)
+- <PlayButton value="seventy" /> 七十
+- <PlayButton value="Saturday" /> 星期六
+- <PlayButton value="ROC" /> 中華民國
+- <PlayButton value="then" /> 那時
+- <PlayButton value="seven" /> 七
+- <PlayButton value="cereal" /> (n.) 麥片
+- <PlayButton value="vendor" /> (n.) 小販
+- <PlayButton value="international" /> (adj.) 國際的
+- <PlayButton value="closet" /> (n.) 壁櫥、衣櫥
+- <PlayButton value="aloud" /> (adv.) 大聲地
+- <PlayButton value="metal" /> (n.) 金屬
+- <PlayButton value="danger" /> (n.) 危險
+- <PlayButton value="obey" /> (v.) 服從
+- <PlayButton value="silence" /> (n.) 寂靜
+- <PlayButton value="custom" /> (n.) 習俗
+- <PlayButton value="poison" /> (n.) 毒物
+- <PlayButton value="customer" /> (n.) 顧客
+- <PlayButton value="tangerine" /> (n.) 橘子
+- <PlayButton value="war" /> (n.) 戰爭
+- <PlayButton value="adult" /> (n.) 成年人
 
 ## 2021-08-13 (10)
+- <PlayButton value="fire" /> 火
+- <PlayButton value="sit" /> 坐
+- <PlayButton value="camp" /> 露營
+- <PlayButton value="raise" /> 舉起
+- <PlayButton value="learn" /> 學習
+- <PlayButton value="dawn" /> (v.) 破曉、頓悟、(n.) 黎明
+- <PlayButton value="powder" /> (n.) 粉
+- <PlayButton value="yell" /> (v.) 吼叫
+- <PlayButton value="dinosaur" /> (n.) 恐龍
+- <PlayButton value="golden" /> (adj.) 金色的
+- <PlayButton value="position" /> (n.) 位置
+- <PlayButton value="ill" /> (adj.) 生病的、(n.) 不幸、禍害
+- <PlayButton value="effort" /> (n.) 努力、氣力；精力
+- <PlayButton value="similar" /> (adj.) 相似的
+- <PlayButton value="trace" /> (v.) 追蹤、描繪、(n.) 蹤跡
+- <PlayButton value="decrease" /> (v.) 減少
+- <PlayButton value="certain" /> (adj.) 肯定的
+- <PlayButton value="master" /> (v.) 精通、(n.) 主人
+- <PlayButton value="male" /> (adj.) 男性的、(n.) 雄性動物
+- <PlayButton value="ceiling" /> (n.) 天花板
 
 ## 2021-08-16 (11)
+- <PlayButton value="only" /> 只
+- <PlayButton value="doctor" /> 醫生
+- <PlayButton value="store" /> 商店
+- <PlayButton value="roller-skate" /> 溜冰
+- <PlayButton value="year" /> 年
+- <PlayButton value="pile" /> (v.) 堆起、(n.) 一堆
+- <PlayButton value="usual" /> (adj.) 例常的
+- <PlayButton value="downstairs" /> (adj.) 樓下的、(adv.) 樓下地、(n.) 樓下
+- <PlayButton value="invitation" /> (n.) 邀請
+- <PlayButton value="partner" /> (n.) 夥伴
+- <PlayButton value="such" /> (adj.) 如此的
+- <PlayButton value="tip" /> (v.) 給小費、使傾斜、(n.) 尖端、小費
+- <PlayButton value="naughty" /> (adj.) 頑皮的
+- <PlayButton value="intelligent" /> (adj.) 有才智的
+- <PlayButton value="broadcast" /> (v.) 廣播
+- <PlayButton value="secondary" /> (adj.) 第二的、次要的
+- <PlayButton value="pollute" /> (v.) 污染
+- <PlayButton value="depend" /> (v.) 依賴
+- <PlayButton value="spot" /> (v.) 沾污、察出、(n.) 斑點、場所
+- <PlayButton value="storm" /> (v.) 猛攻、(n.) 暴風雨
 
 ## 2021-08-17 (12)
 

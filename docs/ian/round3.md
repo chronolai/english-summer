@@ -173,27 +173,157 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="cold" /> 寒冷的
 
 ## 2021-08-11 (15)
+- <PlayButton value="basketball" /> 籃球
+- <PlayButton value="honest" /> 誠實的
+- <PlayButton value="machine" /> 機器
+- <PlayButton value="beef" /> 牛肉
+- <PlayButton value="street" /> 街道
+- <PlayButton value="headache" /> 頭痛
+- <PlayButton value="pin" /> 大頭針
+- <PlayButton value="before" /> 在…之前
+- <PlayButton value="ride" /> 騎
+- <PlayButton value="snake" /> 蛇
 
 ## 2021-08-12 (16)
+- <PlayButton value="violin" /> 小提琴
+- <PlayButton value="only" /> 只
+- <PlayButton value="sight" /> 視力
+- <PlayButton value="thank" /> 謝謝
+- <PlayButton value="gym" /> 體育館
+- <PlayButton value="wave" /> 波浪
+- <PlayButton value="hate" /> 討厭
+- <PlayButton value="bow" /> 敬禮
+- <PlayButton value="sofa" /> 沙發
+- <PlayButton value="supermarket" /> 超市
 
 ## 2021-08-13 (17)
+- <PlayButton value="listen" /> 聽
+- <PlayButton value="bean" /> 豆
+- <PlayButton value="theater" /> 戲院
+- <PlayButton value="free" /> 空閒的
+- <PlayButton value="tell" /> 告訴
+- <PlayButton value="few" /> 少數的
+- <PlayButton value="frisbee" /> 飛盤
+- <PlayButton value="pass" /> 通過
+- <PlayButton value="nice" /> 好的
+- <PlayButton value="sixth" /> 第六
 
 ## 2021-08-16 (18)
+- <PlayButton value="hobby" /> 嗜好
+- <PlayButton value="fruit" /> 水果
+- <PlayButton value="cent" /> (一)分錢
+- <PlayButton value="camera" /> 照相機
+- <PlayButton value="picture" /> 圖片
+- <PlayButton value="even" /> 甚至
+- <PlayButton value="send" /> 寄
+- <PlayButton value="television" /> 電視
+- <PlayButton value="vest" /> 背心
+- <PlayButton value="keep" /> 保持
 
 ## 2021-08-17 (19)
+- <PlayButton value="window" /> 窗戶
+- <PlayButton value="bring" /> 帶來
+- <PlayButton value="ninth" /> 第九
+- <PlayButton value="run" /> 跑
+- <PlayButton value="summer" /> 夏天
+- <PlayButton value="officer" /> 警官
+- <PlayButton value="handsome" /> 英俊的
+- <PlayButton value="a little" /> 一些
+- <PlayButton value="careful" /> 仔細的
+- <PlayButton value="pound" /> 磅
 
 ## 2021-08-18 (20)
+- <PlayButton value="ten" /> 十
+- <PlayButton value="thirty" /> 三十
+- <PlayButton value="clear" /> 清楚的
+- <PlayButton value="bat" /> 蝙蝠
+- <PlayButton value="ROC" /> 中華民國
+- <PlayButton value="swim" /> 游泳
+- <PlayButton value="fifteen" /> 十五
+- <PlayButton value="peach" /> 桃子
+- <PlayButton value="real" /> 真的
+- <PlayButton value="day" /> 日子
 
 ## 2021-08-19 (21)
+- <PlayButton value="dangerous" /> 危險的
+- <PlayButton value="sometimes" /> 有時候
+- <PlayButton value="up" /> 向上
+- <PlayButton value="seed" /> 種子
+- <PlayButton value="zoo" /> 動物園
+- <PlayButton value="island" /> 島嶼
+- <PlayButton value="airplane" /> 飛機
+- <PlayButton value="call" /> 打電話
+- <PlayButton value="away" /> 遠離
+- <PlayButton value="favorite" /> 最喜愛的
 
 ## 2021-08-20 (22)
+- <PlayButton value="uniform" /> 制服
+- <PlayButton value="minute" /> 分鐘
+- <PlayButton value="young" /> 年輕的
+- <PlayButton value="lid" /> 蓋子
+- <PlayButton value="right" /> 右方
+- <PlayButton value="hundred" /> 百
+- <PlayButton value="nail" /> 釘子
+- <PlayButton value="March" /> 三月
+- <PlayButton value="goose" /> 鵝
+- <PlayButton value="unhappy" /> 不快樂的
 
 ## 2021-08-23 (23)
+- <PlayButton value="drop" /> 掉落
+- <PlayButton value="country" /> 鄉村
+- <PlayButton value="bug" /> 小蟲
+- <PlayButton value="holiday" /> 假日
+- <PlayButton value="know" /> 知道
+- <PlayButton value="copy" /> 抄寫
+- <PlayButton value="practice" /> 練習
+- <PlayButton value="start" /> 開始
+- <PlayButton value="factory" /> 工廠
+- <PlayButton value="sixteenth" /> 第十六
 
 ## 2021-08-24 (24)
+- <PlayButton value="mind" /> 介意
+- <PlayButton value="science" /> 科學
+- <PlayButton value="able" /> 能夠…的
+- <PlayButton value="wait" /> 等待
+- <PlayButton value="twelfth" /> 第十二
+- <PlayButton value="brother" /> 兄弟
+- <PlayButton value="dig" /> 挖掘
+- <PlayButton value="doll" /> 洋娃娃
+- <PlayButton value="body" /> 身體
+- <PlayButton value="finger" /> 手指
 
 ## 2021-08-25 (25)
+- <PlayButton value="borrow" /> 借入
+- <PlayButton value="screen" /> 螢幕
+- <PlayButton value="September" /> 九月
+- <PlayButton value="below" /> 在…下方
+- <PlayButton value="many" /> 許多的
+- <PlayButton value="rainbow" /> 彩虹
+- <PlayButton value="police" /> 警察(方)
+- <PlayButton value="house" /> 房屋
+- <PlayButton value="feed" /> 餵
+- <PlayButton value="news" /> 消息
 
 ## 2021-08-26 (26)
+- <PlayButton value="living room" /> 客廳
+- <PlayButton value="nose" /> 鼻子
+- <PlayButton value="list" /> 列表
+- <PlayButton value="cage" /> 籠子
+- <PlayButton value="where" /> 何處
+- <PlayButton value="grandfather" /> 祖父
+- <PlayButton value="market" /> 市場
+- <PlayButton value="book" /> 書
+- <PlayButton value="seventh" /> 第七
+- <PlayButton value="tennis" /> 網球
 
 ## 2021-08-27 (27)
+- <PlayButton value="dollar" /> 元
+- <PlayButton value="always" /> 總是
+- <PlayButton value="matter" /> 事情
+- <PlayButton value="guess" /> 猜想
+- <PlayButton value="little" /> 小的
+- <PlayButton value="tidy" /> 整潔的
+- <PlayButton value="sign" /> 標誌
+- <PlayButton value="castle" /> 城堡
+- <PlayButton value="paint" /> 繪畫
+- <PlayButton value="shout" /> 喊叫
