@@ -245,6 +245,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="storm" /> (v.) 猛攻、(n.) 暴風雨
 
 ## 2021-08-17 (12)
+- <PlayButton value="tomato" /> 番茄
+- <PlayButton value="rat" /> 老鼠
+- <PlayButton value="cup" /> 茶杯
+- <PlayButton value="let" /> 讓
+- <PlayButton value="festival" /> 節慶
+- <PlayButton value="review" /> (v.) 溫習、回顧、(n.) 復習
+- <PlayButton value="helicopter" /> (n.) 直昇機
+- <PlayButton value="vote" /> (v.) 投票
+- <PlayButton value="Walkman" /> (n.) 隨身聽
+- <PlayButton value="major" /> (adj.) 較多的、主要的、(n.) 主修
+- <PlayButton value="none" /> (pron.) 毫無、無一(人或物)
+- <PlayButton value="importance" /> (n.) 重要性
+- <PlayButton value="environment" /> (n.) 環境
+- <PlayButton value="scenery" /> (n.) 風景
+- <PlayButton value="airlines" /> (n.) 航線、航空公司
+- <PlayButton value="exist" /> (v.) 存在
+- <PlayButton value="priest" /> (n.) 牧師、神父
+- <PlayButton value="onion" /> (n.) 洋蔥
+- <PlayButton value="object" /> (v.) 反對、(n.) 物件
+- <PlayButton value="memory" /> (n.) 記憶
 
 ## 2021-08-18 (13)
 
