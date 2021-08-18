@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chronolai.github.io/english-summer/blog</id>
     <title>English Summer Blog</title>
-    <updated>2021-08-18T00:00:00.000Z</updated>
+    <updated>2021-08-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chronolai.github.io/english-summer/blog"/>
     <subtitle>English Summer Blog</subtitle>
     <icon>https://chronolai.github.io/english-summer/img/abc.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-08-19]]></title>
+        <id>2021-08-19</id>
+        <link href="https://chronolai.github.io/english-summer/blog/2021/08/19/"/>
+        <updated>2021-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ian]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-08-18]]></title>
         <id>2021-08-18</id>
