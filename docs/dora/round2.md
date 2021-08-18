@@ -289,10 +289,70 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="revise" /> (v.) 校訂、更改
 
 ## 2021-08-19 (14)
+- <PlayButton value="tidy" /> 整潔的
+- <PlayButton value="marker" /> 簽字筆
+- <PlayButton value="insect" /> 昆蟲
+- <PlayButton value="smoke" /> 煙
+- <PlayButton value="third" /> 第三
+- <PlayButton value="advice" /> (n.) 忠告
+- <PlayButton value="talent" /> (n.) 天才
+- <PlayButton value="cure" /> (v.) 治癒、(n.) 痊癒
+- <PlayButton value="weight" /> (n.) 重量
+- <PlayButton value="continue" /> (v.) 繼續
+- <PlayButton value="parrot" /> (n.) 鸚鵡
+- <PlayButton value="tower" /> (n.) 塔
+- <PlayButton value="available" /> (adj.) 可用的、可得到的、有效的
+- <PlayButton value="against" /> (prep.) 反對
+- <PlayButton value="social" /> (adj.) 社會的、交際的
+- <PlayButton value="tunnel" /> (n.) 隧道
+- <PlayButton value="pain" /> (n.) 疼痛、痛苦
+- <PlayButton value="shelf" /> (n.) 架子
+- <PlayButton value="baby sitter" /> (n.) 替人看小孩者
+- <PlayButton value="seek" /> (v.) 尋覓
 
 ## 2021-08-20 (15)
+- <PlayButton value="get" /> 得到
+- <PlayButton value="except" /> 除了…之外
+- <PlayButton value="American" /> 美國的
+- <PlayButton value="leave" /> 離開
+- <PlayButton value="as" /> 與…一樣
+- <PlayButton value="income" /> (n.) 收入
+- <PlayButton value="fear" /> (v.) 畏懼、(n.) 懼怕
+- <PlayButton value="instrument" /> (n.) 儀器
+- <PlayButton value="behave" /> (v.) 舉動、守規矩
+- <PlayButton value="wide" /> (adj.) 寬的、廣泛的
+- <PlayButton value="stove" /> (n.) 爐灶
+- <PlayButton value="cash" /> (v.) 兌現、(n.) 現款
+- <PlayButton value="basement" /> (n.) 地下室
+- <PlayButton value="professor" /> (n.) 教授
+- <PlayButton value="pump" /> (v.) 跳動、使用唧筒、(n.) 唧筒、打氣機、抽水機
+- <PlayButton value="address" /> (n.) 地址、演說
+- <PlayButton value="ma'am" /> (n.) 女士
+- <PlayButton value="balloon" /> (n.) 汽球
+- <PlayButton value="toothbrush" /> (n.) 牙刷
+- <PlayButton value="member" /> (n.) 會員
 
 ## 2021-08-23 (16)
+- <PlayButton value="cheese" /> 乳酪
+- <PlayButton value="purple" /> 紫色的
+- <PlayButton value="interest" /> 使感興趣
+- <PlayButton value="clothes" /> 衣服
+- <PlayButton value="safe" /> 安全的
+- <PlayButton value="emphasize" /> (v.) 強調
+- <PlayButton value="energetic" /> (adj.) 精力充沛的
+- <PlayButton value="granddaughter" /> (n.) 孫女、外孫女
+- <PlayButton value="humid" /> (adj.) 潮濕的
+- <PlayButton value="alarm" /> (n.) 警鈴、警報、驚慌
+- <PlayButton value="victory" /> (n.) 勝利
+- <PlayButton value="suggest" /> (v.) 建議
+- <PlayButton value="bomb" /> (n.) 炸彈
+- <PlayButton value="soap" /> (n.) 肥皂
+- <PlayButton value="album" /> (n.) 相簿、集郵簿、唱片集
+- <PlayButton value="toothache" /> (n.) 牙痛
+- <PlayButton value="crime" /> (n.) 犯罪
+- <PlayButton value="railroad" /> (n.) 鐵路
+- <PlayButton value="nephew" /> (n.) 侄子、外甥
+- <PlayButton value="swimsuit" /> (n.) 泳衣
 
 ## 2021-08-24 (17)
 
