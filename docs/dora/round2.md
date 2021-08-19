@@ -355,9 +355,89 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="swimsuit" /> (n.) 泳衣
 
 ## 2021-08-24 (17)
+- <PlayButton value="sir" /> 先生
+- <PlayButton value="lunch" /> 午餐
+- <PlayButton value="gate" /> 大門
+- <PlayButton value="use" /> 使用
+- <PlayButton value="husband" /> 丈夫
+- <PlayButton value="population" /> (n.) 人口
+- <PlayButton value="form" /> (v.) 形成、(n.) 形態、表格
+- <PlayButton value="speed" /> (n.) 速度
+- <PlayButton value="affect" /> (v.) 影響
+- <PlayButton value="purpose" /> (n.) 目的
+- <PlayButton value="message" /> (n.) 消息、音信
+- <PlayButton value="step" /> (n.) 步、臺階
+- <PlayButton value="village" /> (n.) 村落
+- <PlayButton value="swan" /> (n.) 天鵝
+- <PlayButton value="principal" /> (n.) (中小學)校長
+- <PlayButton value="toward" /> (prep.) 向、對
+- <PlayButton value="punish" /> (v.) 處罰
+- <PlayButton value="artist" /> (n.) 藝術家
+- <PlayButton value="pleased" /> (adj.) 欣喜的
+- <PlayButton value="increase" /> (v.) 增加
 
 ## 2021-08-25 (18)
+- <PlayButton value="fourth" /> 第四
+- <PlayButton value="mouth" /> 嘴巴
+- <PlayButton value="almost" /> 幾乎
+- <PlayButton value="surprise" /> 使驚訝
+- <PlayButton value="hide" /> 隱藏
+- <PlayButton value="horrible" /> (adj.) 可怕的
+- <PlayButton value="plus" /> (prep.) 加(上)、(n.) 正號
+- <PlayButton value="information" /> (n.) 資訊
+- <PlayButton value="conversation" /> (n.) 會話
+- <PlayButton value="patient" /> (n.) 病人
+- <PlayButton value="aim" /> (v.) 瞄準、對準、(n.) 目標、目的
+- <PlayButton value="beginner" /> (n.) 新手
+- <PlayButton value="excite" /> (v.) 使興奮、使激動
+- <PlayButton value="project" /> (n.) 計畫
+- <PlayButton value="engine" /> (n.) 引擎
+- <PlayButton value="platform" /> (n.) 月台、平台
+- <PlayButton value="curious" /> (adj.) 好奇的
+- <PlayButton value="assume" /> (v.) 假定
+- <PlayButton value="handle" /> (v.) 處理、搬弄、(n.) 把手
+- <PlayButton value="niece" /> (n.) 侄女、外甥女
 
 ## 2021-08-26 (19)
+- <PlayButton value="paint" /> 繪畫
+- <PlayButton value="ring" /> 戒指
+- <PlayButton value="whether" /> 是否
+- <PlayButton value="pass" /> 通過
+- <PlayButton value="swim" /> 游泳
+- <PlayButton value="carrot" /> (n.) 胡蘿蔔
+- <PlayButton value="chase" /> (v.) 追
+- <PlayButton value="vocabulary" /> (n.) 字彙
+- <PlayButton value="deaf" /> (adj.) 聾的
+- <PlayButton value="valley" /> (n.) 山谷
+- <PlayButton value="expect" /> (v.) 期待
+- <PlayButton value="hero" /> (n.) 英雄
+- <PlayButton value="beauty" /> (n.) 美貌、美人
+- <PlayButton value="indicate" /> (v.) 指出
+- <PlayButton value="government" /> (n.) 政府
+- <PlayButton value="charge" /> (v.) 索價、充電、(n.) 費用、充電
+- <PlayButton value="hammer" /> (v.) 敲打、(n.) 鎚
+- <PlayButton value="poem" /> (n.) 詩
+- <PlayButton value="peaceful" /> (adj.) 寧靜的、和平的
+- <PlayButton value="lady" /> (n.) 淑女
 
 ## 2021-08-27 (20)
+- <PlayButton value="follow" /> 遵循
+- <PlayButton value="want" /> 想要
+- <PlayButton value="see" /> 看
+- <PlayButton value="scooter" /> 速克達機車
+- <PlayButton value="January" /> 一月
+- <PlayButton value="trade" /> (n.) 貿易
+- <PlayButton value="asleep" /> (adj.) 睡著的
+- <PlayButton value="deer" /> (n.) 鹿
+- <PlayButton value="society" /> (n.) 社會
+- <PlayButton value="cruel" /> (adj.) 殘酷的
+- <PlayButton value="humorous" /> (adj.) 幽默的
+- <PlayButton value="calm" /> (adj.) 寧靜的、(v.) 變安靜、使鎮定
+- <PlayButton value="thunder" /> (n.) 雷
+- <PlayButton value="coin" /> (n.) 硬幣
+- <PlayButton value="loser" /> (n.) 輸家
+- <PlayButton value="flu" /> (n.) 流行性感冒
+- <PlayButton value="rub" /> (v.) 磨擦
+- <PlayButton value="eagle" /> (n.) 老鷹
+- <PlayButton value="bone" /> (n.) 骨頭
+- <PlayButton value="soul" /> (n.) 靈魂

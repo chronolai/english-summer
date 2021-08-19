@@ -69,8 +69,8 @@ loadDataset().then((words) => {
         console.error(advanceList);
         // console.error(phraseList);
         console.error();
-        console.error(`[${basicKeys}]`);
-        console.error(`[${advanceKeys}]`);
+        console.error(`...[${basicKeys}].map(id => \`basic1200_$\{id\}\`),`);
+        console.error(`...[${advanceKeys}].map(id => \`advance800_$\{id\}\`),`);
         // console.error(`[${phraseKeys}]`);
     }
     console.error();
