@@ -244,7 +244,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="real" /> 真的
 - <PlayButton value="day" /> 日子
 
-## 2021-08-19 (21)
+## 2021-08-20 (21)
 - <PlayButton value="dangerous" /> 危險的
 - <PlayButton value="sometimes" /> 有時候
 - <PlayButton value="up" /> 向上
@@ -256,19 +256,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="away" /> 遠離
 - <PlayButton value="favorite" /> 最喜愛的
 
-## 2021-08-20 (22)
-- <PlayButton value="uniform" /> 制服
-- <PlayButton value="minute" /> 分鐘
-- <PlayButton value="young" /> 年輕的
-- <PlayButton value="lid" /> 蓋子
-- <PlayButton value="right" /> 右方
-- <PlayButton value="hundred" /> 百
-- <PlayButton value="nail" /> 釘子
-- <PlayButton value="March" /> 三月
-- <PlayButton value="goose" /> 鵝
-- <PlayButton value="unhappy" /> 不快樂的
-
-## 2021-08-23 (23)
+## 2021-08-23 (22)
 - <PlayButton value="drop" /> 掉落
 - <PlayButton value="country" /> 鄉村
 - <PlayButton value="bug" /> 小蟲
@@ -280,7 +268,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="factory" /> 工廠
 - <PlayButton value="sixteenth" /> 第十六
 
-## 2021-08-24 (24)
+## 2021-08-24 (23)
 - <PlayButton value="mind" /> 介意
 - <PlayButton value="science" /> 科學
 - <PlayButton value="able" /> 能夠…的
@@ -292,7 +280,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="body" /> 身體
 - <PlayButton value="finger" /> 手指
 
-## 2021-08-25 (25)
+## 2021-08-25 (24)
 - <PlayButton value="borrow" /> 借入
 - <PlayButton value="screen" /> 螢幕
 - <PlayButton value="September" /> 九月
@@ -304,7 +292,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="feed" /> 餵
 - <PlayButton value="news" /> 消息
 
-## 2021-08-26 (26)
+## 2021-08-26 (25)
 - <PlayButton value="living room" /> 客廳
 - <PlayButton value="nose" /> 鼻子
 - <PlayButton value="list" /> 列表
@@ -316,7 +304,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="seventh" /> 第七
 - <PlayButton value="tennis" /> 網球
 
-## 2021-08-27 (27)
+## 2021-08-27 (26)
 - <PlayButton value="dollar" /> 元
 - <PlayButton value="always" /> 總是
 - <PlayButton value="matter" /> 事情
@@ -327,3 +315,27 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="castle" /> 城堡
 - <PlayButton value="paint" /> 繪畫
 - <PlayButton value="shout" /> 喊叫
+
+## 2021-08-30 (27)
+- <PlayButton value="uniform" /> 制服
+- <PlayButton value="minute" /> 分鐘
+- <PlayButton value="young" /> 年輕的
+- <PlayButton value="lid" /> 蓋子
+- <PlayButton value="right" /> 右方
+- <PlayButton value="hundred" /> 百
+- <PlayButton value="nail" /> 釘子
+- <PlayButton value="March" /> 三月
+- <PlayButton value="goose" /> 鵝
+- <PlayButton value="unhappy" /> 不快樂的
+
+## 2021-08-31 (28)
+- <PlayButton value="business" /> 生意
+- <PlayButton value="spring" /> 春天
+- <PlayButton value="subject" /> 科目
+- <PlayButton value="enough" /> 足夠的
+- <PlayButton value="program" /> 節目
+- <PlayButton value="week" /> 星期
+- <PlayButton value="shy" /> 害羞的
+- <PlayButton value="senior high school" /> 高中
+- <PlayButton value="may" /> 可能
+- <PlayButton value="August" /> 八月
