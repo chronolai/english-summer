@@ -27,7 +27,7 @@ module.exports = {
       },
       {
         type: 'doc',
-        docId: 'dora/round2',
+        docId: 'dora/round3',
         position: 'left',
         label: 'Dora',
       },
