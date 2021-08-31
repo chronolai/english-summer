@@ -304,7 +304,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="seventh" /> 第七
 - <PlayButton value="tennis" /> 網球
 
-## 2021-08-30 (26)
+## 2021-08-31 (26)
 - <PlayButton value="dollar" /> 元
 - <PlayButton value="always" /> 總是
 - <PlayButton value="matter" /> 事情
@@ -316,19 +316,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="paint" /> 繪畫
 - <PlayButton value="shout" /> 喊叫
 
-## 2021-08-31 (27)
-- <PlayButton value="uniform" /> 制服
-- <PlayButton value="minute" /> 分鐘
-- <PlayButton value="young" /> 年輕的
-- <PlayButton value="lid" /> 蓋子
-- <PlayButton value="right" /> 右方
-- <PlayButton value="hundred" /> 百
-- <PlayButton value="nail" /> 釘子
-- <PlayButton value="March" /> 三月
-- <PlayButton value="goose" /> 鵝
-- <PlayButton value="unhappy" /> 不快樂的
-
-## 2021-09-01 (28)
+## 2021-09-01 (27)
 - <PlayButton value="business" /> 生意
 - <PlayButton value="spring" /> 春天
 - <PlayButton value="subject" /> 科目
@@ -340,7 +328,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="may" /> 可能
 - <PlayButton value="August" /> 八月
 
-## 2021-09-02 (29)
+## 2021-09-02 (28)
 - <PlayButton value="coat" /> 大衣
 - <PlayButton value="mouth" /> 嘴巴
 - <PlayButton value="they" /> 他們
@@ -352,7 +340,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="pet" /> 寵物
 - <PlayButton value="coffee" /> 咖啡
 
-## 2021-09-03 (30)
+## 2021-09-03 (29)
 - <PlayButton value="page" /> 頁
 - <PlayButton value="late" /> 晚的
 - <PlayButton value="block" /> 街區
@@ -364,7 +352,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="trash" /> 垃圾
 - <PlayButton value="pear" /> 梨子
 
-## 2021-09-06 (31)
+## 2021-09-06 (30)
 - <PlayButton value="build" /> 建造
 - <PlayButton value="helpful" /> 有幫助的
 - <PlayButton value="mistake" /> 錯誤
@@ -375,3 +363,19 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="guy" /> 傢伙
 - <PlayButton value="hard-working" /> 努力工作的
 - <PlayButton value="mail" /> 信件
+
+## 2021-09-07 (31)
+- <PlayButton value="uniform" /> 制服
+- <PlayButton value="minute" /> 分鐘
+- <PlayButton value="young" /> 年輕的
+- <PlayButton value="lid" /> 蓋子
+- <PlayButton value="right" /> 右方
+- <PlayButton value="hundred" /> 百
+- <PlayButton value="nail" /> 釘子
+- <PlayButton value="March" /> 三月
+- <PlayButton value="goose" /> 鵝
+- <PlayButton value="unhappy" /> 不快樂的
+
+## 2021-09-08 (32)
+
+## 2021-09-09 (33)
