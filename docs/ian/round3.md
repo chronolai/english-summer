@@ -316,7 +316,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="paint" /> 繪畫
 - <PlayButton value="shout" /> 喊叫
 
-## 2021-09-01 (27)
+## 2021-09-02 (27)
 - <PlayButton value="business" /> 生意
 - <PlayButton value="spring" /> 春天
 - <PlayButton value="subject" /> 科目
@@ -328,19 +328,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="may" /> 可能
 - <PlayButton value="August" /> 八月
 
-## 2021-09-02 (28)
-- <PlayButton value="coat" /> 大衣
-- <PlayButton value="mouth" /> 嘴巴
-- <PlayButton value="they" /> 他們
-- <PlayButton value="bedroom" /> 臥室
-- <PlayButton value="we" /> 我們
-- <PlayButton value="pleasure" /> 樂事
-- <PlayButton value="quiet" /> 安靜的
-- <PlayButton value="Internet" /> 網路
-- <PlayButton value="pet" /> 寵物
-- <PlayButton value="coffee" /> 咖啡
-
-## 2021-09-03 (29)
+## 2021-09-03 (28)
 - <PlayButton value="page" /> 頁
 - <PlayButton value="late" /> 晚的
 - <PlayButton value="block" /> 街區
@@ -352,7 +340,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="trash" /> 垃圾
 - <PlayButton value="pear" /> 梨子
 
-## 2021-09-06 (30)
+## 2021-09-06 (29)
 - <PlayButton value="build" /> 建造
 - <PlayButton value="helpful" /> 有幫助的
 - <PlayButton value="mistake" /> 錯誤
@@ -364,7 +352,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="hard-working" /> 努力工作的
 - <PlayButton value="mail" /> 信件
 
-## 2021-09-07 (31)
+## 2021-09-07 (30)
 - <PlayButton value="uniform" /> 制服
 - <PlayButton value="minute" /> 分鐘
 - <PlayButton value="young" /> 年輕的
@@ -376,6 +364,20 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="goose" /> 鵝
 - <PlayButton value="unhappy" /> 不快樂的
 
-## 2021-09-08 (32)
+## 2021-09-08 (31)
+- <PlayButton value="coat" /> 大衣
+- <PlayButton value="mouth" /> 嘴巴
+- <PlayButton value="they" /> 他們
+- <PlayButton value="bedroom" /> 臥室
+- <PlayButton value="we" /> 我們
+- <PlayButton value="pleasure" /> 樂事
+- <PlayButton value="quiet" /> 安靜的
+- <PlayButton value="Internet" /> 網路
+- <PlayButton value="pet" /> 寵物
+- <PlayButton value="coffee" /> 咖啡
 
-## 2021-09-09 (33)
+## 2021-09-09 (32)
+
+## 2021-09-10 (33)
+
+## 2021-09-13 (34)
