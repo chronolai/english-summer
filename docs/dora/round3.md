@@ -135,14 +135,114 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="hug" /> (v.) 摟抱
 
 ## 2021-09-07 (7)
+- <PlayButton value="angry" /> 生氣的
+- <PlayButton value="book" /> 書
+- <PlayButton value="leader" /> 領導者
+- <PlayButton value="recorder" /> 錄音機
+- <PlayButton value="most" /> 大多數的
+- <PlayButton value="succeed" /> (v.) 成功
+- <PlayButton value="marry" /> (v.) 結婚
+- <PlayButton value="reach" /> (v.) 到、伸出
+- <PlayButton value="humble" /> (adj.) 謙恭的、微賤的
+- <PlayButton value="improve" /> (v.) 改善
+- <PlayButton value="education" /> (n.) 教育
+- <PlayButton value="chin" /> (n.) 下巴
+- <PlayButton value="skin" /> (n.) 皮膚
+- <PlayButton value="ocean" /> (n.) 海洋
+- <PlayButton value="doubt" /> (v.) 懷疑、(n.) 懷疑
+- <PlayButton value="burst" /> (v.) 爆開、闖入
+- <PlayButton value="wok" /> (n.)中式炒菜鍋
+- <PlayButton value="edge" /> (n.) 邊緣、優勢
+- <PlayButton value="central" /> (adj.) 中央的
+- <PlayButton value="greedy" /> (adj.) 貪心的
 
 ## 2021-09-08 (8)
+- <PlayButton value="green" /> 綠色(的)
+- <PlayButton value="goose" /> 鵝
+- <PlayButton value="keep" /> 保持
+- <PlayButton value="when" /> 何時
+- <PlayButton value="future" /> 未來
+- <PlayButton value="score" /> (v.) 得分、(n.) 得分、二十、刻痕、樂譜
+- <PlayButton value="trousers" /> (n.) 長褲
+- <PlayButton value="choice" /> (n.) 選擇
+- <PlayButton value="promise" /> (v.) 答應
+- <PlayButton value="argue" /> (v.) 爭論
+- <PlayButton value="convenience store" /> (n.) 便利商店
+- <PlayButton value="bill" /> (v.) 記入帳、(n.) 帳單、鈔票
+- <PlayButton value="safety" /> (n.) 安全
+- <PlayButton value="pineapple" /> (n.) 鳳梨
+- <PlayButton value="amount" /> (n.) 總數
+- <PlayButton value="height" /> (n.) 高度
+- <PlayButton value="ruin" /> (v.) 毀滅
+- <PlayButton value="jealous" /> (adj.) 嫉妒的
+- <PlayButton value="temperature" /> (n.) 溫度
+- <PlayButton value="recover" /> (v.) 尋回、恢復
 
 ## 2021-09-09 (9)
+- <PlayButton value="pear" /> 梨子
+- <PlayButton value="headache" /> 頭痛
+- <PlayButton value="duck" /> 鴨
+- <PlayButton value="basketball" /> 籃球
+- <PlayButton value="typhoon" /> 颱風
+- <PlayButton value="lock" /> (v.) 鎖住、(n.) 鎖
+- <PlayButton value="scene" /> (n.) 景色、場面
+- <PlayButton value="empty" /> (adj.) 空的
+- <PlayButton value="hanger" /> (n.) 衣架
+- <PlayButton value="steam" /> (v.) 蒸、(n.) 蒸氣
+- <PlayButton value="gentleman" /> (n.) 紳士
+- <PlayButton value="jeep" /> (n.) 吉普車
+- <PlayButton value="production" /> (n.) 製造、生產
+- <PlayButton value="admire" /> (v.) 欽佩、欣賞
+- <PlayButton value="meter" /> (n.) 公尺、計量器
+- <PlayButton value="owner" /> (n.) 物主
+- <PlayButton value="elder" /> (adj.) 年紀較長的、(n.) 長輩
+- <PlayButton value="therefore" /> (adv.) 因此
+- <PlayButton value="symbol" /> (n.) 符號、象徵
+- <PlayButton value="gentle" /> (adj.) 溫柔的
 
 ## 2021-09-10 (10)
+- <PlayButton value="beside" /> 在…旁邊
+- <PlayButton value="send" /> 寄
+- <PlayButton value="shirt" /> 襯衫
+- <PlayButton value="steak" /> 牛排
+- <PlayButton value="chicken" /> 雞肉
+- <PlayButton value="marvelous" /> (adj.) 了不起的
+- <PlayButton value="nice-looking" /> (adj.) 好看的
+- <PlayButton value="reason" /> (n.) 理由
+- <PlayButton value="movement" /> (n.) 動作
+- <PlayButton value="skill" /> (n.) 技能
+- <PlayButton value="pajamas" /> (n.) 睡衣
+- <PlayButton value="backward" /> (adj.) 向後的、落後的、(adv.) 向後地、落後地
+- <PlayButton value="tent" /> (n.) 帳篷
+- <PlayButton value="discover" /> (v.) 發現
+- <PlayButton value="diplomat" /> (n.) 外交官
+- <PlayButton value="support" /> (v.) 支持、(n.) 支持
+- <PlayButton value="ink" /> (n.) 墨水
+- <PlayButton value="speech" /> (n.) 言論、演講
+- <PlayButton value="skillful" /> (adj.) 有技術的、熟練的
+- <PlayButton value="gather" /> (v.) 集合
 
 ## 2021-09-13 (11)
+- <PlayButton value="above" /> 在…上方
+- <PlayButton value="road" /> 道路
+- <PlayButton value="kilo" /> 公斤
+- <PlayButton value="pull" /> 拉
+- <PlayButton value="dress" /> 洋裝
+- <PlayButton value="cartoon" /> (n.) 卡通
+- <PlayButton value="locker" /> (n.) (公共場所的)衣物櫃
+- <PlayButton value="subway" /> (n.) 地鐵
+- <PlayButton value="exam" /> (n.) 考試
+- <PlayButton value="geography" /> (n.) 地理
+- <PlayButton value="travel" /> (v.) 旅行、(n.) 旅行
+- <PlayButton value="sincere" /> (adj.) 誠懇的
+- <PlayButton value="freedom" /> (n.) 自由
+- <PlayButton value="dial" /> (v.) 撥(電話號碼)
+- <PlayButton value="maximum" /> (adj.) 最大限度的、(n.) 最高極限
+- <PlayButton value="congratulation" /> (n.) 祝賀
+- <PlayButton value="natural" /> (adj.) 天然的
+- <PlayButton value="cabbage" /> (n.) 包心菜
+- <PlayButton value="wrist" /> (n.) 手腕
+- <PlayButton value="sweep" /> (v.) 掃、(n.) 掃除
 
 ## 2021-09-14 (12)
 
