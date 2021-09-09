@@ -4,9 +4,16 @@
         <title>English Summer Blog</title>
         <link>https://chronolai.github.io/english-summer/blog</link>
         <description>English Summer Blog</description>
-        <lastBuildDate>Thu, 09 Sep 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021-09-10]]></title>
+            <link>https://chronolai.github.io/english-summer/blog/2021/09/10/</link>
+            <guid>2021-09-10</guid>
+            <pubDate>Fri, 10 Sep 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Ian]]></description>
+        </item>
         <item>
             <title><![CDATA[2021-09-09]]></title>
             <link>https://chronolai.github.io/english-summer/blog/2021/09/09/</link>
