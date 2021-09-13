@@ -364,7 +364,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="trash" /> 垃圾
 - <PlayButton value="pear" /> 梨子
 
-## 2021-09-10 (31)
+## 2021-09-13 (31)
 - <PlayButton value="uniform" /> 制服
 - <PlayButton value="minute" /> 分鐘
 - <PlayButton value="young" /> 年輕的
@@ -376,16 +376,60 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="goose" /> 鵝
 - <PlayButton value="unhappy" /> 不快樂的
 
-## 2021-09-13 (32)
+## 2021-09-14 (32)
+- <PlayButton value="like" /> 喜歡
+- <PlayButton value="excellent" /> 極好的
+- <PlayButton value="gift" /> 禮物
+- <PlayButton value="fry" /> 油炸
+- <PlayButton value="engineer" /> 工程師
+- <PlayButton value="ready" /> 準備好的
+- <PlayButton value="husband" /> 丈夫
+- <PlayButton value="dumpling" /> 水餃
+- <PlayButton value="menu" /> 菜單
+- <PlayButton value="meal" /> 一餐
 
-## 2021-09-14 (33)
+## 2021-09-15 (33)
+- <PlayButton value="medicine" /> 藥
+- <PlayButton value="modern" /> 現代化的
+- <PlayButton value="roller-skate" /> 溜冰
+- <PlayButton value="care" /> 關心
+- <PlayButton value="fish" /> 魚
+- <PlayButton value="then" /> 那時
+- <PlayButton value="wall" /> 牆壁
+- <PlayButton value="leader" /> 領導者
+- <PlayButton value="take" /> 拿
+- <PlayButton value="still" /> 仍然
 
-## 2021-09-15 (34)
+## 2021-09-16 (34)
+- <PlayButton value="really" /> 真地
+- <PlayButton value="tomorrow" /> 明天
+- <PlayButton value="speak" /> 說
+- <PlayButton value="skirt" /> 裙子
+- <PlayButton value="man" /> 男人
+- <PlayButton value="mat" /> 墊子
+- <PlayButton value="different" /> 不同的
+- <PlayButton value="comic  book" />  漫畫
+- <PlayButton value="shark" /> 鯊魚
+- <PlayButton value="chance" /> 機會
 
-## 2021-09-16 (35)
+## 2021-09-17 (35)
+- <PlayButton value="delicious" /> 美味的
+- <PlayButton value="noise" /> 噪音
+- <PlayButton value="salesman" /> 推銷員
+- <PlayButton value="cry" /> 哭
+- <PlayButton value="frog" /> 蛙
+- <PlayButton value="grandmother" /> 祖母
+- <PlayButton value="break" /> 打破
+- <PlayButton value="on" /> 在…上面
+- <PlayButton value="station" /> 車站
+- <PlayButton value="art" /> 美術
 
-## 2021-09-17 (36)
+## 2021-09-20 (36)
 
-## 2021-09-20 (37)
+## 2021-09-21 (37)
 
-## 2021-09-21 (38)
+## 2021-09-22 (38)
+
+## 2021-09-23 (39)
+
+## 2021-09-24 (40)

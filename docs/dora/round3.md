@@ -245,12 +245,89 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="sweep" /> (v.) 掃、(n.) 掃除
 
 ## 2021-09-14 (12)
+- <PlayButton value="month" /> 月份
+- <PlayButton value="fox" /> 狐狸
+- <PlayButton value="twelve" /> 十二
+- <PlayButton value="umbrella" /> 雨傘
+- <PlayButton value="who" /> 誰
+- <PlayButton value="motion" /> (n.) 移動
+- <PlayButton value="female" /> (adj.) 女性的、(n.) 雌性動物
+- <PlayButton value="fashionable" /> (adj.) 時尚的
+- <PlayButton value="vinegar" /> (n.) 醋
+- <PlayButton value="impolite" /> (adj.) 沒禮貌的
+- <PlayButton value="manager" /> (n.) 經理
+- <PlayButton value="event" /> (n.) 事件
+- <PlayButton value="while" /> (conj.) 當...的時候、(n.) 一會兒
+- <PlayButton value="relative" /> (adj.) 有關的、相對的、(n.) 親戚
+- <PlayButton value="deep" /> (adj.) 深的
+- <PlayButton value="court" /> (n.) 法庭；(網球等的)場地
+- <PlayButton value="wolf" /> (n.) 狼
+- <PlayButton value="soy sauce" /> (n.) 醬油
+- <PlayButton value="jam" /> (v.) 擠、夾傷、(n.) 果醬、擁塞
+- <PlayButton value="lay" /> (v.) 置放、產卵
 
 ## 2021-09-15 (13)
+- <PlayButton value="guitar" /> 吉他
+- <PlayButton value="enjoy" /> 喜愛
+- <PlayButton value="bug" /> 小蟲
+- <PlayButton value="snow" /> 下雪
+- <PlayButton value="do" /> 做
+- <PlayButton value="steal" /> (v.) 偷竊
+- <PlayButton value="flag" /> (n.) 旗子
+- <PlayButton value="cable" /> (n.) 纜索、有線電視
+- <PlayButton value="trumpet" /> (v.) 吹喇叭、(n.) 小喇叭
+- <PlayButton value="nation" /> (n.) 國家
+- <PlayButton value="sleepy" /> (adj.) 想睡的
+- <PlayButton value="through" /> (prep.) 經過
+- <PlayButton value="ski" /> (v.) 滑雪、(n.) 滑雪屐
+- <PlayButton value="diamond" /> (n.) 鑽石
+- <PlayButton value="haircut" /> (n.) 理髮
+- <PlayButton value="among" /> (prep.) 在...之中
+- <PlayButton value="host" /> (n.) 主人
+- <PlayButton value="magazine" /> (n.) 雜誌
+- <PlayButton value="ignore" /> (v.) 不理睬
+- <PlayButton value="opinion" /> (n.) 意見
 
 ## 2021-09-16 (14)
+- <PlayButton value="businessman" /> 商人
+- <PlayButton value="bake" /> 烘烤
+- <PlayButton value="great" /> 很棒的
+- <PlayButton value="thirteen" /> 十三
+- <PlayButton value="cloudy" /> 多雲的
+- <PlayButton value="attention" /> (n.) 注意、專心
+- <PlayButton value="remind" /> (v.) 提醒
+- <PlayButton value="musician" /> (n.) 音樂家
+- <PlayButton value="strike" /> (v.) 打擊、(鐘)敲響、(n.) 攻擊、罷工
+- <PlayButton value="ordinary" /> (adj.) 平常的
+- <PlayButton value="upstairs" /> (adj.) 樓上的、(adv.) 樓上地、(n.) 樓上
+- <PlayButton value="guard" /> (v.) 保衛、看守、(n.) 警衛
+- <PlayButton value="puzzle" /> (v.) 使迷惑、(n.) 謎
+- <PlayButton value="principle" /> (n.) 主義、真諦
+- <PlayButton value="advise" /> (v.) 勸告
+- <PlayButton value="pigeon" /> (n.) 鴿子
+- <PlayButton value="silly" /> (adj.) 傻的、無聊的
+- <PlayButton value="death" /> (n.) 死亡
+- <PlayButton value="necklace" /> (n.) 項鍊
+- <PlayButton value="loaf" /> (n.) 一條(麵包)
 
 ## 2021-09-17 (15)
+- <PlayButton value="into" /> 到…之內
+- <PlayButton value="MRT" /> 捷運
+- <PlayButton value="heart" /> 心
+- <PlayButton value="rice" /> 米飯
+- <PlayButton value="knife" /> 刀子
+- <PlayButton value="develop" /> (v.) 發展
+- <PlayButton value="error" /> (n.) 錯誤
+- <PlayButton value="sand" /> (n.) 沙
+- <PlayButton value="detect" /> (v.) 查出
+- <PlayButton value="accept" /> (v.) 接受
+- <PlayButton value="current" /> (adj.) 現行的、(n.) 水流、電流
+- <PlayButton value="classical" /> (adj.) 古典的
+- <PlayButton value="absent" /> (adj.) 缺席的、不在場的
+- <PlayButton value="bitter" /> (adj.) 苦的、嚴酷的
+- <PlayButton value="rent" /> (v.) 租
+- <PlayButton value="foggy" /> (adj.) 有霧的
+- <PlayButton value="topic" /> (n.) 論題、話題
 
 ## 2021-09-20 (16)
 
