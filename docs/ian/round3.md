@@ -376,7 +376,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="goose" /> 鵝
 - <PlayButton value="unhappy" /> 不快樂的
 
-## 2021-09-14 (32)
+## 2021-09-15 (32)
 - <PlayButton value="like" /> 喜歡
 - <PlayButton value="excellent" /> 極好的
 - <PlayButton value="gift" /> 禮物
@@ -388,19 +388,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="menu" /> 菜單
 - <PlayButton value="meal" /> 一餐
 
-## 2021-09-15 (33)
-- <PlayButton value="medicine" /> 藥
-- <PlayButton value="modern" /> 現代化的
-- <PlayButton value="roller-skate" /> 溜冰
-- <PlayButton value="care" /> 關心
-- <PlayButton value="fish" /> 魚
-- <PlayButton value="then" /> 那時
-- <PlayButton value="wall" /> 牆壁
-- <PlayButton value="leader" /> 領導者
-- <PlayButton value="take" /> 拿
-- <PlayButton value="still" /> 仍然
-
-## 2021-09-16 (34)
+## 2021-09-16 (33)
 - <PlayButton value="really" /> 真地
 - <PlayButton value="tomorrow" /> 明天
 - <PlayButton value="speak" /> 說
@@ -412,7 +400,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="shark" /> 鯊魚
 - <PlayButton value="chance" /> 機會
 
-## 2021-09-17 (35)
+## 2021-09-17 (34)
 - <PlayButton value="delicious" /> 美味的
 - <PlayButton value="noise" /> 噪音
 - <PlayButton value="salesman" /> 推銷員
@@ -424,12 +412,28 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="station" /> 車站
 - <PlayButton value="art" /> 美術
 
-## 2021-09-20 (36)
+## 2021-09-22 (35)
+- <PlayButton value="medicine" /> 藥
+- <PlayButton value="modern" /> 現代化的
+- <PlayButton value="roller-skate" /> 溜冰
+- <PlayButton value="care" /> 關心
+- <PlayButton value="fish" /> 魚
+- <PlayButton value="then" /> 那時
+- <PlayButton value="wall" /> 牆壁
+- <PlayButton value="leader" /> 領導者
+- <PlayButton value="take" /> 拿
+- <PlayButton value="still" /> 仍然
 
-## 2021-09-21 (37)
+## 2021-09-23 (36)
 
-## 2021-09-22 (38)
+## 2021-09-24 (37)
 
-## 2021-09-23 (39)
+## 2021-09-27 (38)
 
-## 2021-09-24 (40)
+## 2021-09-28 (39)
+
+## 2021-09-29 (40)
+
+## 2021-09-30 (41)
+
+## 2021-10-01 (42)
