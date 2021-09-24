@@ -27,6 +27,7 @@ function loadDataset() {
     'basic1200',
     'advance800',
     'phrase',
+    'senior8000',
   ];
   return Promise.all(files.map(file => loadCSV(file))).then(results => {
     const data = {};

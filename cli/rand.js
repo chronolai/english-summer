@@ -21,6 +21,7 @@ loadDataset().then((words) => {
     const basic = examKeys.filter(key => key.includes('basic'));
     const advance = examKeys.filter(key => key.includes('advance'));
     const phrase = examKeys.filter(key => key.includes('phrase'));
+    const senior = examKeys.filter(key => key.includes('senior'));
 
     // console.error('allKeys: ', allKeys.length);
     // console.error('examKeys: ', examKeys.length);
@@ -50,6 +51,7 @@ loadDataset().then((words) => {
         const doraRemainBasicKeys = basic.filter(val => !doraDays.includes(val));
         const doraRemainAdvanceKeys = advance.filter(val => !doraDays.includes(val));
         const doraRemainPhraseKeys = phrase.filter(val => !doraDays.includes(val));
+        const doraRemainSeniorKeys = senior.filter(val => !doraDays.includes(val));
 
         const doraShuffleBasic = shuffleWords(doraRemainBasicKeys, 5);
         const basicList = doraShuffleBasic.map(word => `- ${word.en} ${word.tw}`).join('\n');
@@ -60,18 +62,23 @@ loadDataset().then((words) => {
         // const doraShufflePhrase = shuffleWords(doraRemainPhraseKeys, 5);
         // const phraseList = doraShufflePhrase.map(word => `- ${word.en} ${word.tw}`).join('\n');
         // const phraseKeys = doraShufflePhrase.map(word => word.id).join(', ');
+        const doraShuffleSenior = shuffleWords(doraRemainSeniorKeys, 15);
+        const seniorList = doraShuffleSenior.map(word => `- ${word.en} ${word.tw}`).join('\n');
+        const seniorKeys = doraShuffleSenior.map(word => word.id).join(', ');
 
         // console.error(doraDays.length);
         // console.error('doraRemainBasicKeys:', doraRemainBasicKeys.length);
         // console.error('doraRemainAdvanceKeys:', doraRemainAdvanceKeys.length);
         // console.error('doraRemainPhraseKeys:', doraRemainPhraseKeys.length);
         console.error(basicList);
-        console.error(advanceList);
+        // console.error(advanceList);
         // console.error(phraseList);
+        console.error(seniorList);
         console.error();
         console.error(`...[${basicKeys}].map(id => \`basic1200_$\{id\}\`),`);
-        console.error(`...[${advanceKeys}].map(id => \`advance800_$\{id\}\`),`);
+        // console.error(`...[${advanceKeys}].map(id => \`advance800_$\{id\}\`),`);
         // console.error(`[${phraseKeys}]`);
+        console.error(`...[${seniorKeys}].map(id => \`senior8000_$\{id\}\`),`);
     }
     console.error();
 });

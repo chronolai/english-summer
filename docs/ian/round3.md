@@ -401,39 +401,15 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="chance" /> 機會
 
 ## 2021-09-17 (34)
-- <PlayButton value="delicious" /> 美味的
-- <PlayButton value="noise" /> 噪音
-- <PlayButton value="salesman" /> 推銷員
-- <PlayButton value="cry" /> 哭
-- <PlayButton value="frog" /> 蛙
-- <PlayButton value="grandmother" /> 祖母
-- <PlayButton value="break" /> 打破
-- <PlayButton value="on" /> 在…上面
-- <PlayButton value="station" /> 車站
-- <PlayButton value="art" /> 美術
 
-## 2021-09-22 (35)
-- <PlayButton value="medicine" /> 藥
-- <PlayButton value="modern" /> 現代化的
-- <PlayButton value="roller-skate" /> 溜冰
-- <PlayButton value="care" /> 關心
-- <PlayButton value="fish" /> 魚
-- <PlayButton value="then" /> 那時
-- <PlayButton value="wall" /> 牆壁
-- <PlayButton value="leader" /> 領導者
-- <PlayButton value="take" /> 拿
-- <PlayButton value="still" /> 仍然
+## 2021-09-24 (35)
 
-## 2021-09-23 (36)
+## 2021-09-27 (36)
 
-## 2021-09-24 (37)
+## 2021-09-28 (37)
 
-## 2021-09-27 (38)
+## 2021-09-29 (38)
 
-## 2021-09-28 (39)
+## 2021-09-30 (39)
 
-## 2021-09-29 (40)
-
-## 2021-09-30 (41)
-
-## 2021-10-01 (42)
+## 2021-10-01 (40)

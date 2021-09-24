@@ -329,12 +329,32 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="foggy" /> (adj.) 有霧的
 - <PlayButton value="topic" /> (n.) 論題、話題
 
-## 2021-09-22 (16)
+## 2021-09-24 (16)
+- <PlayButton value="October" /> 十月
+- <PlayButton value="picture" /> 圖片
+- <PlayButton value="cross" /> 越過
+- <PlayButton value="question" /> 問題
+- <PlayButton value="bird" /> 鳥
+- <PlayButton value="dictionary" /> (n.10) 字典
+- <PlayButton value="successive" /> (adj.10) 連續的;後繼的;繼承的
+- <PlayButton value="search" /> (n.6) 搜查,搜尋;檢查;探索,調查
+- <PlayButton value="ruler" /> (n.5) 尺;統治者
+- <PlayButton value="translator" /> (n.10) 譯者
+- <PlayButton value="nod" /> (v.3) 點頭
+- <PlayButton value="zero" /> (v.4) 把...調整歸零
+- <PlayButton value="preparation" /> (n.11) 準備,預備
+- <PlayButton value="mix" /> (v.3) 混合
+- <PlayButton value="script" /> (n.6) 筆跡;(戲劇、廣播等的)腳本
+- <PlayButton value="tuck" /> (v.4) 把...塞進;使有褶襉
+- <PlayButton value="supervisor" /> (n.10) 管理人;指導者
+- <PlayButton value="distrust" /> (v.8) 不信任;懷疑
+- <PlayButton value="method" /> (n.6) 方法
+- <PlayButton value="riot" /> (n.4) 暴亂;騷亂;狂歡
 
-## 2021-09-23 (17)
+## 2021-09-27 (17)
 
-## 2021-09-24 (18)
+## 2021-09-28 (18)
 
-## 2021-09-27 (19)
+## 2021-09-29 (19)
 
-## 2021-09-28 (20)
+## 2021-09-30 (20)
