@@ -374,6 +374,26 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="doze" /> (n.4) 瞌睡,假寐
 
 ## 2021-09-28 (18)
+- <PlayButton value="put" /> 放
+- <PlayButton value="throat" /> 喉嚨
+- <PlayButton value="ham" /> 火腿
+- <PlayButton value="August" /> 八月
+- <PlayButton value="those" /> 那些
+- <PlayButton value="robust" /> (adj.6) 強健的;健全的;結實的
+- <PlayButton value="expertise" /> (n.9) 專門知識;專門技術
+- <PlayButton value="downstairs" /> (n.10) 樓下
+- <PlayButton value="dirty" /> (adj.5) 骯髒的
+- <PlayButton value="sway" /> (n.4) 搖動;搖擺;影響
+- <PlayButton value="advanced" /> (adj.8) 先進的;高等的
+- <PlayButton value="anecdote" /> (n.8) 軼事;祕史
+- <PlayButton value="intersection" /> (n.12) 交叉點;十字路口
+- <PlayButton value="whisk" /> (n.5) 撢;迅速移動;攪拌器
+- <PlayButton value="mute" /> (v.4) 消除(聲音);減輕(聲音)
+- <PlayButton value="argument" /> (n.8) 爭論
+- <PlayButton value="bike" /> (n.4) 腳踏車
+- <PlayButton value="blank" /> (n.5) 空白
+- <PlayButton value="speaker" /> (n.7) 演講者;揚聲器
+- <PlayButton value="strain" /> (n.6) 拉緊;張力;壓力;扭傷;血緣
 
 ## 2021-09-29 (19)
 
