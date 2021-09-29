@@ -418,3 +418,23 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="neglect" /> (v.7) 忽視,忽略
 
 ## 2021-09-30 (20)
+- <PlayButton value="live" /> 住
+- <PlayButton value="ball" /> 球
+- <PlayButton value="build" /> 建造
+- <PlayButton value="even" /> 甚至
+- <PlayButton value="animal" /> 動物
+- <PlayButton value="loan" /> (v.4) 借出,貸與
+- <PlayButton value="gulf" /> (n.4) 海灣
+- <PlayButton value="fireproof" /> (adj.9) 防火的;耐火的
+- <PlayButton value="date" /> (v.4) 約會
+- <PlayButton value="sidewalk" /> (n.8) 路邊行人道
+- <PlayButton value="choice" /> (adj.6) 上等的,精選的;挑三揀四的
+- <PlayButton value="stature" /> (n.7) 身高;高度
+- <PlayButton value="nurse" /> (n.5) 護士
+- <PlayButton value="integration" /> (n.11) 整合;積分
+- <PlayButton value="bronze" /> (n.6) 青銅;青銅製品;古銅色
+- <PlayButton value="spider" /> (n.6) 蜘蛛
+- <PlayButton value="remember" /> (v.8) 記得
+- <PlayButton value="ride" /> (v.4) 騎;乘
+- <PlayButton value="conflict" /> (v.8) 矛盾,衝突
+- <PlayButton value="valuable" /> (adj.8) 有價值的
