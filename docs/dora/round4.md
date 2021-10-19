@@ -111,3 +111,31 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="will" /> (v.4) 將;願,要;能;願意
 - <PlayButton value="moreover" /> (adv.8) 並且,加之,此外
 - <PlayButton value="perceive" /> (v.8) 察覺;感知;意識到
+
+## 2021-10-20 (6)
+- <PlayButton value="else" /> 其他的
+- <PlayButton value="glue" /> 膠水
+- <PlayButton value="blind" /> 瞎的
+- <PlayButton value="Monday" /> 星期一
+- <PlayButton value="train" /> 火車
+- <PlayButton value="discount" /> (v.8) 將...打折扣
+- <PlayButton value="oriental" /> (adj.8) (珍珠等)光輝奪目的;優質的
+- <PlayButton value="stereotype" /> (v.10) 使成為陳規;把...澆鑄成鉛板
+- <PlayButton value="machinery" /> (n.9) 機器;機械
+- <PlayButton value="canyon" /> (n.6) 峽谷
+- <PlayButton value="plunge" /> (v.6) 投入;將...插入;急降
+- <PlayButton value="face" /> (n.4) 臉
+- <PlayButton value="weave" /> (v.5) 織;編
+- <PlayButton value="patent" /> (n.6) 專利;專利權
+- <PlayButton value="rival" /> (n.5) 競爭者,對手,敵手
+- <PlayButton value="skate" /> (n.5) 冰鞋
+- <PlayButton value="male" /> (n.4) 雄性動物
+- <PlayButton value="reputation" /> (n.10) 名譽,名聲
+- <PlayButton value="near" /> (adj.4) 近的
+- <PlayButton value="rugged" /> (adj.6) 高低不平的;粗糙的;粗線條的
+
+## 2021-10-21 (7)
+
+## 2021-10-22 (8)
+
+## 2021-10-25 (9)
