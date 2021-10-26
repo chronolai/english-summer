@@ -156,7 +156,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="sweet" /> (n.5) (餐後的)甜點;(用作稱呼語)親愛的,寶貝
 - <PlayButton value="pork" /> (n.4) 豬肉
 
-## 2021-10-25 (8)
+## 2021-10-26 (8)
 - <PlayButton value="pocket" /> 口袋
 - <PlayButton value="warm" /> 溫暖的
 - <PlayButton value="visit" /> 參觀
@@ -178,7 +178,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="parlor" /> (n.6) 客廳;接待室
 - <PlayButton value="advisor" /> (n.7) adviser
 
-## 2021-10-26 (9)
+## 2021-10-27 (9)
 - <PlayButton value="teach" /> 教
 - <PlayButton value="celebrate" /> 慶祝
 - <PlayButton value="how" /> 如何
