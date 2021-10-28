@@ -199,3 +199,25 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="statue" /> (n.6) 雕像,塑像
 - <PlayButton value="respect" /> (v.7) 尊敬
 - <PlayButton value="pudding" /> (n.7) 布丁
+
+## 2021-10-28 (10)
+- <PlayButton value="course" /> 課程
+- <PlayButton value="salesman" /> 推銷員
+- <PlayButton value="towel" /> 毛巾
+- <PlayButton value="ice cream" /> 冰淇淋
+- <PlayButton value="traffic" /> 交通
+- <PlayButton value="calm" /> (adj.4) 寧靜的
+- <PlayButton value="experiment" /> (n.10) 實驗;試驗
+- <PlayButton value="dreadful" /> (adj.8) 可怕的
+- <PlayButton value="marine" /> (n.6) 船舶;海運業;海軍陸戰隊隊員
+- <PlayButton value="appropriate" /> (adj.11) 適當的,恰當的
+- <PlayButton value="panic" /> (v.5) 使恐慌
+- <PlayButton value="disability" /> (n.10) 無能;殘障
+- <PlayButton value="lodge" /> (n.5) 木屋;小旅舍;守衛室
+- <PlayButton value="apologize" /> (v.9) 道歉
+- <PlayButton value="lime" /> (n.4) 石灰;酸橙
+- <PlayButton value="batter" /> (n.6) 打擊手;糊狀物
+- <PlayButton value="promise" /> (n.7) 承諾,諾言;希望,前途
+- <PlayButton value="scout" /> (n.5) 斥候;童子軍
+- <PlayButton value="honey" /> (n.5) 蜂蜜;心愛的人
+- <PlayButton value="rite" /> (n.4) 儀式;慣例
