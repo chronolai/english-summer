@@ -221,3 +221,25 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="scout" /> (n.5) 斥候;童子軍
 - <PlayButton value="honey" /> (n.5) 蜂蜜;心愛的人
 - <PlayButton value="rite" /> (n.4) 儀式;慣例
+
+## 2021-10-29 (11)
+- <PlayButton value="truck" /> 卡車
+- <PlayButton value="excuse" /> 原諒
+- <PlayButton value="sheep" /> 綿羊
+- <PlayButton value="quick" /> 迅速的
+- <PlayButton value="guy" /> 傢伙
+- <PlayButton value="access" /> (n.6) 通道;入口;門路
+- <PlayButton value="size" /> (v.4) 按一定尺寸製作;估算
+- <PlayButton value="ingenious" /> (adj.9) 心靈手巧的;足智多謀的
+- <PlayButton value="brass" /> (n.5) 黃銅
+- <PlayButton value="virtual" /> (adj.7) 實質上的;虛擬的
+- <PlayButton value="edge" /> (v.4) 使鋒利;使漸進
+- <PlayButton value="cuisine" /> (n.7) 烹飪(法);菜餚
+- <PlayButton value="acceptable" /> (adj.10) 可以接受的;令人滿意的
+- <PlayButton value="reverse" /> (adj.7) 顛倒的;相反的;反向的
+- <PlayButton value="match" /> (v.5) 相配
+- <PlayButton value="abbreviate" /> (v.10) 縮寫
+- <PlayButton value="copper" /> (n.6) 銅
+- <PlayButton value="partnership" /> (n.11) 合夥(或合作)關係
+- <PlayButton value="prejudice" /> (v.9) 使抱偏見;使懷成見
+- <PlayButton value="widow" /> (v.5) 使成寡婦(或鰥夫)
