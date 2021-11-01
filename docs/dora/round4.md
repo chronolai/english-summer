@@ -222,7 +222,7 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="honey" /> (n.5) 蜂蜜;心愛的人
 - <PlayButton value="rite" /> (n.4) 儀式;慣例
 
-## 2021-10-29 (11)
+## 2021-11-01 (11)
 - <PlayButton value="truck" /> 卡車
 - <PlayButton value="excuse" /> 原諒
 - <PlayButton value="sheep" /> 綿羊
@@ -243,3 +243,25 @@ import PlayButton from '../../src/components/PlayButton'
 - <PlayButton value="partnership" /> (n.11) 合夥(或合作)關係
 - <PlayButton value="prejudice" /> (v.9) 使抱偏見;使懷成見
 - <PlayButton value="widow" /> (v.5) 使成寡婦(或鰥夫)
+
+## 2021-11-02 (12)
+- <PlayButton value="voice" /> 聲音
+- <PlayButton value="Easter" /> 復活節
+- <PlayButton value="hat" /> 帽子
+- <PlayButton value="game" /> 比賽
+- <PlayButton value="stairs" /> 樓梯
+- <PlayButton value="negotiate" /> (v.9) 談判,協商
+- <PlayButton value="contest" /> (v.7) 競爭,角逐;爭辯
+- <PlayButton value="lively" /> (adj.6) 精力充沛的;活潑的
+- <PlayButton value="substance" /> (n.9) 物質;主旨;要義
+- <PlayButton value="interference" /> (n.12) 干涉,干預;擾亂
+- <PlayButton value="garage" /> (n.6) 車庫
+- <PlayButton value="swan" /> (n.4) 天鵝
+- <PlayButton value="mankind" /> (n.7) 人類
+- <PlayButton value="hunt" /> (v.4) 追獵
+- <PlayButton value="bury" /> (v.4) 埋葬,安葬
+- <PlayButton value="chord" /> (n.5) (樂器的)弦;心弦;弦桿;和音
+- <PlayButton value="proof" /> (n.5) 證據;物證;證明
+- <PlayButton value="intensity" /> (n.9) 強度;極度
+- <PlayButton value="struggle" /> (n.8) 使勁;掙扎
+- <PlayButton value="up" /> (adv.2) 向上
