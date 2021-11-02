@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chronolai.github.io/english-summer/blog</id>
     <title>English Summer Blog</title>
-    <updated>2021-11-02T00:00:00.000Z</updated>
+    <updated>2021-11-03T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chronolai.github.io/english-summer/blog"/>
     <subtitle>English Summer Blog</subtitle>
     <icon>https://chronolai.github.io/english-summer/img/abc.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-11-03]]></title>
+        <id>2021-11-03</id>
+        <link href="https://chronolai.github.io/english-summer/blog/2021/11/03/"/>
+        <updated>2021-11-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dora]]></summary>
+        <content type="html"><![CDATA[<h2>Dora</h2><ul><li><div value="both"></div> 兩者都</li><li><div value="shoulder"></div> 肩膀</li><li><div value="bad"></div> 壞的</li><li><div value="happy"></div> 快樂的</li><li><div value="fourteen"></div> 十四</li><li><div value="fluency"></div> (n.7) 流暢;流暢的說話(或寫作)</li><li><div value="displace"></div> (v.8) 迫使離開;取代;免職</li><li><div value="communicate"></div> (v.11) 傳達;傳遞</li><li><div value="operate"></div> (v.7) 運作;運轉;動手術</li><li><div value="ash"></div> (n.3) 灰</li><li><div value="unanimous"></div> (adj.9) 全體一致的</li><li><div value="meanwhile"></div> (adv.9) 其間;同時</li><li><div value="exaggeration"></div> (n.12) 誇張</li><li><div value="suffocate"></div> (v.9) 使窒息;扼制</li><li><div value="overall"></div> (adj.7) 總的,全部的,全面的</li><li><div value="capitalist"></div> (n.10) 資本主義者</li><li><div value="send"></div> (v.4) 寄發;送</li><li><div value="Christmas"></div> (n.9) 耶誕節</li><li><div value="symptom"></div> (n.7) 症狀,徵候</li><li><div value="journalism"></div> (n.10) 新聞業;新聞學</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-11-02]]></title>
         <id>2021-11-02</id>
