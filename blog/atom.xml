@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chronolai.github.io/english-summer/blog</id>
     <title>English Summer Blog</title>
-    <updated>2021-11-03T00:00:00.000Z</updated>
+    <updated>2021-11-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chronolai.github.io/english-summer/blog"/>
     <subtitle>English Summer Blog</subtitle>
     <icon>https://chronolai.github.io/english-summer/img/abc.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-11-04]]></title>
+        <id>2021-11-04</id>
+        <link href="https://chronolai.github.io/english-summer/blog/2021/11/04/"/>
+        <updated>2021-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dora]]></summary>
+        <content type="html"><![CDATA[<h2>Dora</h2><ul><li><div value="anything"></div> 任何事物</li><li><div value="block"></div> 街區</li><li><div value="bun"></div> 小圓麵包</li><li><div value="glove"></div> 手套</li><li><div value="snowman"></div> 雪人</li><li><div value="minor"></div> (adj.5) 較小的;較次要的</li><li><div value="gamble"></div> (v.6) 賭博;打賭</li><li><div value="thrust"></div> (n.6) 猛推;刺;驅動力</li><li><div value="goddess"></div> (n.7) 女神</li><li><div value="manage"></div> (v.6) 管理;經營;處理</li><li><div value="provincial"></div> (adj.10) 省的;鄉氣的</li><li><div value="largely"></div> (adv.7) 大部分;主要地;大量地</li><li><div value="beforehand"></div> (adv.10) 事先;提前地</li><li><div value="hit"></div> (v.3) 打;擊</li><li><div value="sin"></div> (v.3) 犯(罪)</li><li><div value="picturesque"></div> (adj.11) 圖畫般的;美麗的</li><li><div value="moss"></div> (v.4) 以苔覆蓋;使長滿苔蘚</li><li><div value="earth"></div> (n.5) 地球;土地</li><li><div value="ceremony"></div> (n.8) 儀式,典禮</li><li><div value="drugstore"></div> (n.9) (常兼售雜貨的)藥房</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-11-03]]></title>
         <id>2021-11-03</id>
