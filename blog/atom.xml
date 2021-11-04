@@ -2,11 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chronolai.github.io/english-summer/blog</id>
     <title>English Summer Blog</title>
-    <updated>2021-11-04T00:00:00.000Z</updated>
+    <updated>2021-11-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chronolai.github.io/english-summer/blog"/>
     <subtitle>English Summer Blog</subtitle>
     <icon>https://chronolai.github.io/english-summer/img/abc.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021-11-05]]></title>
+        <id>2021-11-05</id>
+        <link href="https://chronolai.github.io/english-summer/blog/2021/11/05/"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dora]]></summary>
+        <content type="html"><![CDATA[<h2>Dora</h2><ul><li><div value="dream"></div> 做夢</li><li><div value="before"></div> 在…之前</li><li><div value="fast"></div> 快的</li><li><div value="bear"></div> 熊</li><li><div value="Tuesday"></div> 星期二</li><li><div value="then"></div> (adv.4) 當時;之後;那麼</li><li><div value="plunge"></div> (n.6) 跳入;衝進;猛跌</li><li><div value="ink"></div> (v.3) 用墨水寫;簽署;簽訂(合同等)</li><li><div value="join"></div> (v.4) 加入</li><li><div value="ebb"></div> (v.3) 退潮;衰退</li><li><div value="rhinoceros"></div> (n.10) 犀牛</li><li><div value="find"></div> (n.4) 發現;發現物</li><li><div value="version"></div> (n.7) 譯文;版本</li><li><div value="grandson"></div> (n.8) 孫子;外孫</li><li><div value="grief"></div> (n.5) 悲痛,悲傷</li><li><div value="ridge"></div> (n.5) 屋脊;山脈;(狹長的)隆起部</li><li><div value="hotel"></div> (n.5) 旅館</li><li><div value="activity"></div> (n.8) 活動</li><li><div value="lighten"></div> (v.7) 使光明,照亮</li><li><div value="hover"></div> (n.5) 盤旋;徘徊</li></ul>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-11-04]]></title>
         <id>2021-11-04</id>
